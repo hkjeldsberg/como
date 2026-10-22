@@ -2,7 +2,8 @@
 
 import { motion, useMotionValue, useMotionValueEvent, useTransform, type PanInfo } from "framer-motion";
 import { useRef } from "react";
-import { LevelDots } from "@/components/glass";
+import { LevelDots } from "@/components/clay";
+import { categoryLabel } from "@/lib/categories";
 import { haptics } from "@/lib/haptics";
 import type { CardResult, Word } from "@/lib/types";
 
@@ -10,15 +11,21 @@ const SWIPE_THRESHOLD = 110;
 const SWIPE_VELOCITY = 600;
 const SPRING = { type: "spring", stiffness: 400, damping: 25 } as const;
 
-const LEVEL_LABEL = { 1: "Fácil · 1 pt", 2: "Media · 2 pts", 3: "Difícil · 3 pts" } as const;
+/** Shrinks long words so the longest single token fits the 280px card. */
+function wordFontSize(text: string) {
+  const longest = Math.max(...text.split(/\s+/).map((t) => t.length));
+  return Math.min(46, Math.floor(232 / (longest * 0.58)));
+}
 
 type Props = {
   word: Word;
+  /** Tailwind bg class of the describer's color, used for the level dots. */
+  accent: string;
   disabled: boolean;
   onSwipe: (result: CardResult) => void;
 };
 
-export function SwipeCard({ word, disabled, onSwipe }: Props) {
+export function SwipeCard({ word, accent, disabled, onSwipe }: Props) {
   const x = useMotionValue(0);
   const rotate = useTransform(x, [-220, 220], [-10, 10]);
   const correctOpacity = useTransform(x, [20, SWIPE_THRESHOLD], [0, 1]);
@@ -37,11 +44,9 @@ export function SwipeCard({ word, disabled, onSwipe }: Props) {
     else if (offset.x < -SWIPE_THRESHOLD || velocity.x < -SWIPE_VELOCITY) onSwipe("skipped");
   }
 
-  const isSpecial = ["movie", "book", "person"].includes(word.category);
-
   return (
     <motion.div
-      className="absolute inset-0 touch-none select-none"
+      className="absolute left-1/2 top-1/2 -ml-[140px] -mt-[170px] h-[340px] w-[280px] touch-none select-none"
       style={{ x, rotate }}
       drag={disabled ? false : "x"}
       dragSnapToOrigin
@@ -58,43 +63,30 @@ export function SwipeCard({ word, disabled, onSwipe }: Props) {
             : { opacity: 0, scale: 0.9, transition: { duration: 0.2 } },
       }}
       transition={SPRING}
-      whileTap={disabled ? undefined : { scale: 1.02 }}
     >
-      <div className="relative flex h-full flex-col items-center justify-center overflow-hidden rounded-[2.5rem] border border-white/50 bg-white/55 p-8 shadow-[0_30px_80px_-20px_rgba(0,0,0,0.45)] backdrop-blur-2xl dark:border-white/15 dark:bg-white/12">
-        <motion.div
-          style={{ opacity: correctOpacity }}
-          className="absolute inset-0 grid place-items-start rounded-[2.5rem] bg-emerald-500/85 p-7"
-        >
-          <span className="rounded-xl border-2 border-white px-3 py-1 text-xl font-extrabold uppercase tracking-wider text-white">
-            ¡Correcto!
+      <div className="relative flex h-full flex-col items-center justify-center gap-5 overflow-hidden rounded-[44px] bg-clay-card px-6 shadow-clay-lg">
+        <motion.div style={{ opacity: correctOpacity }} className="pointer-events-none absolute inset-0 bg-clay-p2/45">
+          <span className="absolute right-5 top-5 rounded-full bg-clay-p2 px-3.5 py-1 text-sm font-semibold text-clay-correctInk">
+            ¡sí! +{word.level}
           </span>
         </motion.div>
-        <motion.div
-          style={{ opacity: skipOpacity }}
-          className="absolute inset-0 grid place-items-start justify-end rounded-[2.5rem] bg-zinc-500/85 p-7"
-        >
-          <span className="rounded-xl border-2 border-white px-3 py-1 text-xl font-extrabold uppercase tracking-wider text-white">
-            Saltar
+        <motion.div style={{ opacity: skipOpacity }} className="pointer-events-none absolute inset-0 bg-clay-track/80">
+          <span className="absolute left-5 top-5 rounded-full bg-clay-surface px-3.5 py-1 text-sm font-semibold text-clay-muted">
+            paso
           </span>
         </motion.div>
 
-        <div className="relative flex flex-col items-center gap-4 text-center">
-          <div className="flex items-center gap-2 text-sm font-medium text-foreground/55">
-            <LevelDots level={word.level} />
-            {LEVEL_LABEL[word.level]}
-          </div>
-          <motion.span
-            layoutId={`word-${word.id}`}
-            className="text-[clamp(2.25rem,11vw,3.75rem)] font-bold leading-[1.05] tracking-tight"
-          >
-            {word.spanish_word}
-          </motion.span>
-          {isSpecial && (
-            <span className="rounded-full bg-foreground/10 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-foreground/60">
-              {{ movie: "Película", book: "Libro", person: "Persona" }[word.category]}
-            </span>
-          )}
-        </div>
+        <span className="relative rounded-full bg-clay-tagBg px-3.5 py-1 text-sm font-medium text-clay-tagInk">
+          {categoryLabel(word.category)}
+        </span>
+        <motion.span
+          layoutId={`word-${word.id}`}
+          className="relative text-center font-semibold leading-[1.05] text-clay-ink"
+          style={{ fontSize: wordFontSize(word.spanish_word) }}
+        >
+          {word.spanish_word}
+        </motion.span>
+        <LevelDots level={word.level} fill={accent} className="relative" />
       </div>
     </motion.div>
   );

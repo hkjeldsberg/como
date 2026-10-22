@@ -3,6 +3,7 @@
 import type { Session } from "@supabase/supabase-js";
 import { AnimatePresence, LayoutGroup } from "framer-motion";
 import { useEffect, useRef, useState } from "react";
+import { PLAYER_BG } from "@/components/clay";
 import { GuesserView } from "@/components/guesser-view";
 import { Lobby } from "@/components/lobby";
 import { RoundSummary } from "@/components/round-summary";
@@ -13,6 +14,7 @@ import { usePrefs } from "@/hooks/use-prefs";
 import { playerNumberOf, recordSwipe, startRound } from "@/lib/game";
 import { haptics } from "@/lib/haptics";
 import type { CardResult, PlayerNumber } from "@/lib/types";
+import { cn } from "@/lib/utils";
 
 const DEFAULT_AVATARS: Record<PlayerNumber, string> = { 1: "🦊", 2: "🐙" };
 
@@ -89,8 +91,6 @@ export function Game({ session }: { session: Session }) {
         connected={{ 1: !!online[1], 2: !!online[2] }}
         avatar={prefs.avatar}
         onAvatar={prefs.setAvatar}
-        theme={prefs.theme}
-        onTheme={prefs.setTheme}
         onStart={handleStart}
         starting={busy}
       />
@@ -100,42 +100,49 @@ export function Game({ session }: { session: Session }) {
   const currentWord = state.current_word_id ? wordsById.get(state.current_word_id) : undefined;
   const playing = state.status === "playing";
   const nextDescriber: PlayerNumber = describer === 1 ? 2 : 1;
-  const label = (p: PlayerNumber | null) => (p === me ? "tú" : `Player ${p}`);
+  const label = (p: PlayerNumber | null) => (p === me ? "tú" : `jugador ${p}`);
   const guesserFlash =
     game.lastCard && game.lastCard.round_id === state.current_round_id ? game.lastCard : null;
+  const cardNumber = Math.min(state.cards_played + 1, state.cards_per_round);
 
   return (
     <LayoutGroup>
-      <main className="flex min-h-dvh flex-col">
-        <ScoreBar
-          scores={scores}
-          avatars={avatars}
-          me={me}
-          describer={describer}
-          flying={flying}
-          progress={playing ? { played: state.cards_played, total: state.cards_per_round } : undefined}
-        />
+      <main className="mx-auto flex min-h-dvh w-full max-w-md flex-col gap-[18px] px-[22px] pb-[max(34px,env(safe-area-inset-bottom))] pt-[max(62px,env(safe-area-inset-top))]">
+        <ScoreBar scores={scores} avatars={avatars} me={me} describer={describer} flying={flying} />
+
+        <p className="text-center text-[15px] font-medium text-clay-muted">
+          carta {cardNumber} de {state.cards_per_round}
+        </p>
 
         {isDescriber ? (
-          <div className="flex flex-1 flex-col px-6 pb-[max(1.5rem,env(safe-area-inset-bottom))] pt-6">
-            <div className="relative mx-auto w-full max-w-sm flex-1 max-h-[60dvh]">
+          <>
+            <div className="relative min-h-[360px] flex-1">
               <AnimatePresence custom={lastResult} mode="popLayout">
                 {playing && currentWord && (
-                  <SwipeCard key={`${state.cards_played}-${currentWord.id}`} word={currentWord} disabled={busy} onSwipe={handleSwipe} />
+                  <SwipeCard
+                    key={`${state.cards_played}-${currentWord.id}`}
+                    word={currentWord}
+                    accent={PLAYER_BG[describer ?? 1]}
+                    disabled={busy}
+                    onSwipe={handleSwipe}
+                  />
                 )}
               </AnimatePresence>
             </div>
-            <div className="mt-6 flex justify-between text-sm font-medium text-foreground/50">
-              <span>← Saltar</span>
-              <span>Describe en español</span>
-              <span>Correcto →</span>
+            <div className="flex justify-center gap-7">
+              <RoundButton onClick={() => handleSwipe("skipped")} disabled={!playing || busy} className="bg-clay-surface text-clay-muted">
+                paso
+              </RoundButton>
+              <RoundButton onClick={() => handleSwipe("correct")} disabled={!playing || busy} className="bg-clay-p2 text-clay-correctInk">
+                ¡sí!
+              </RoundButton>
             </div>
-          </div>
+          </>
         ) : (
-          <GuesserView describerAvatar={avatars[describer ?? 1]} flash={guesserFlash} />
+          <GuesserView describer={describer ?? 1} describerAvatar={avatars[describer ?? 1]} flash={guesserFlash} />
         )}
 
-        {actionError && <p className="px-6 pb-4 text-center text-sm text-red-500">{actionError}</p>}
+        {actionError && <p className="text-center text-sm text-clay-tagInk">{actionError}</p>}
       </main>
 
       <AnimatePresence>
@@ -154,6 +161,18 @@ export function Game({ session }: { session: Session }) {
   );
 }
 
+function RoundButton({ className, ...props }: React.ComponentProps<"button">) {
+  return (
+    <button
+      className={cn(
+        "grid size-[76px] place-items-center rounded-full text-lg font-semibold shadow-clay-sm transition-shadow active:shadow-clay-pressed disabled:opacity-60",
+        className,
+      )}
+      {...props}
+    />
+  );
+}
+
 function Centered({ children }: { children: React.ReactNode }) {
-  return <main className="grid min-h-dvh place-items-center px-8 text-center text-foreground/70">{children}</main>;
+  return <main className="grid min-h-dvh place-items-center px-8 text-center font-medium text-clay-muted">{children}</main>;
 }

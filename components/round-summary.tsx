@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { useState } from "react";
-import { LevelDots, PrimaryButton } from "@/components/glass";
+import { ClayButton, LevelDots } from "@/components/clay";
 import { WordSheet } from "@/components/word-sheet";
 import { cn } from "@/lib/utils";
 import type { RoundCard, Word } from "@/lib/types";
@@ -24,31 +24,39 @@ export function RoundSummary({ cards, wordsById, describerLabel, nextDescriberLa
   return (
     <>
       <motion.div
-        className="fixed inset-x-0 bottom-0 z-30 mx-auto flex max-h-[88dvh] max-w-lg flex-col rounded-t-[2.25rem] border border-white/40 bg-white/70 shadow-2xl backdrop-blur-2xl dark:border-white/10 dark:bg-zinc-900/75"
+        className="fixed inset-0 z-20 bg-clay-ink/20"
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        exit={{ opacity: 0 }}
+      />
+      <motion.div
+        className="fixed inset-x-0 bottom-0 z-30 mx-auto flex max-h-[88dvh] max-w-lg flex-col rounded-t-[32px] bg-clay-bg shadow-clay-lg"
         initial={{ y: "100%" }}
         animate={{ y: 0 }}
         exit={{ y: "100%" }}
         transition={{ type: "spring", stiffness: 300, damping: 32 }}
       >
-        <div className="px-6 pt-6 text-center">
-          <p className="text-sm font-medium uppercase tracking-wide text-foreground/50">Fin de la ronda · {describerLabel}</p>
+        <div className="mx-auto mt-3 h-1 w-10 rounded-full bg-clay-muted" />
+        <div className="px-[22px] pt-4 text-center">
+          <p className="text-sm font-medium text-clay-muted">fin de la ronda · {describerLabel}</p>
           <motion.p
-            className="mt-1 text-6xl font-bold tabular-nums"
+            className="mt-1 text-6xl font-semibold tabular-nums"
             initial={{ scale: 0.5, opacity: 0 }}
             animate={{ scale: 1, opacity: 1 }}
             transition={{ type: "spring", stiffness: 300, damping: 14, delay: 0.15 }}
           >
             +{points}
           </motion.p>
-          <p className="text-foreground/60">
+          <p className="font-medium text-clay-muted">
             {correct} de {cards.length} adivinadas
           </p>
         </div>
 
-        <ul className="mt-5 flex-1 space-y-2 overflow-y-auto px-4">
+        <ul className="mt-5 flex-1 space-y-3 overflow-y-auto px-[22px] py-2">
           {cards.map((card, i) => {
             const word = wordsById.get(card.word_id);
             if (!word) return null;
+            const ok = card.result === "correct";
             return (
               <motion.li
                 key={card.id}
@@ -58,31 +66,31 @@ export function RoundSummary({ cards, wordsById, describerLabel, nextDescriberLa
               >
                 <button
                   onClick={() => setSelected(word)}
-                  className="flex w-full items-center gap-3 rounded-2xl bg-white/50 px-4 py-3 text-left transition active:scale-[0.98] dark:bg-white/8"
+                  className="flex w-full items-center gap-3 rounded-3xl bg-clay-surface px-4 py-3 text-left shadow-clay-sm transition-shadow active:shadow-clay-pressed"
                 >
                   <span
                     className={cn(
-                      "grid size-7 shrink-0 place-items-center rounded-full text-sm font-bold text-white",
-                      card.result === "correct" ? "bg-emerald-500" : "bg-zinc-400 dark:bg-zinc-600",
+                      "grid size-8 shrink-0 place-items-center rounded-full text-sm font-semibold",
+                      ok ? "bg-clay-p2 text-clay-correctInk" : "bg-clay-track text-clay-muted",
                     )}
                   >
-                    {card.result === "correct" ? "✓" : "–"}
+                    {ok ? `+${card.points}` : "–"}
                   </span>
-                  <span className="flex-1">
-                    <span className="block font-semibold">{word.spanish_word}</span>
-                    <span className="block text-sm text-foreground/55">{word.english}</span>
+                  <span className="min-w-0 flex-1">
+                    <span className="block truncate font-semibold">{word.spanish_word}</span>
+                    <span className="block truncate text-sm font-medium text-clay-muted">{word.english}</span>
                   </span>
-                  <LevelDots level={word.level} className="text-foreground/50" />
+                  <LevelDots level={word.level} className="scale-75" />
                 </button>
               </motion.li>
             );
           })}
         </ul>
 
-        <div className="px-6 pb-[max(1.5rem,env(safe-area-inset-bottom))] pt-4">
-          <PrimaryButton onClick={onNextRound} disabled={starting}>
-            Siguiente ronda · describe {nextDescriberLabel}
-          </PrimaryButton>
+        <div className="px-[22px] pb-[max(34px,env(safe-area-inset-bottom))] pt-4">
+          <ClayButton onClick={onNextRound} disabled={starting}>
+            siguiente ronda · describe {nextDescriberLabel}
+          </ClayButton>
         </div>
       </motion.div>
       <WordSheet word={selected} onClose={() => setSelected(null)} />

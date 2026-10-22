@@ -16,7 +16,7 @@ Como acts as a digital card game synchronized across two mobile devices. One pla
 * **Animation & Gestures:** Framer Motion (specifically utilizing spring physics, `drag`, `useTransform`, and `layoutId`).
 * **Backend & Sync:** Supabase (Database and Realtime subscriptions). All app tables live in a dedicated Postgres schema **`como`** (not `public`).
 * **Authentication:** Hardcoded dummy accounts for frictionless entry.
-* **Local Storage:** `localStorage` for persisting non-critical UI preferences (e.g., dark mode, chosen avatar).
+* **Local Storage:** `localStorage` for persisting non-critical UI preferences (e.g., chosen avatar).
 
 ### 3. Authentication & State Strategy
 
@@ -53,7 +53,8 @@ The interface must feel native, tactile, and physically grounded, avoiding abrup
 
 * **Physics-Based Swiping:** The core word card must use Framer Motion's `drag` prop with tight spring physics (`stiffness: 400`, `damping: 25`). As the user drags the card left or right, a `useTransform` hook should incrementally rotate the card (e.g., `-10deg` to `10deg`) and fade in a green "Correct" or gray "Skip" overlay.
 * **Haptic Feedback:** Bind `navigator.vibrate()` to key interactions. A subtle 10ms vibration when dragging crosses the threshold to register a swipe, and a heavier double-vibration on round end. Works on Android only; on iPhone (all browsers use WebKit) it silently no-ops. No fallback required.
-* **Glassmorphism & Depth:** Utilize `backdrop-blur-xl` and semi-transparent Tailwind backgrounds (`bg-white/10`) over rich, slow-moving gradient meshes to create a sense of depth.
+* **Visual Theme — "Arcilla" (soft clay):** Fredoka font (600 for words/scores, 500 for labels). Flat lavender page (`#ebe5f5`) with neumorphic clay surfaces (`clay-sm`, `clay-lg`, `clay-pressed` shadows). Player 1 = peach `#ffb59a`, Player 2 = mint `#9fd8c8` (mint is also the "correct" color). No glass, gradients or backdrop-blur. Light mode only.
+* **Describer Screen:** score pills → "carta N de 10" → 280×340 word card (category chip, word, level dots in the describer's color) → two 76px round buttons, "paso" and "¡sí!", which do the same as swiping left/right. Dragging right tints the card mint with a "¡sí! +N" chip; dragging left tints it gray with a "paso" chip.
 * **Shared Element Transitions:** Use Framer Motion's `layoutId` so that when a word is guessed correctly, the text seamlessly shrinks and animates up into the Describer's score counter at the top of the screen.
 
 ### 6. Database Schema (Supabase)

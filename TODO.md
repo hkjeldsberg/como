@@ -1,7 +1,11 @@
 # IN PROGRESS
-- [ ] Apply migration + seed to Supabase, create users, play-test on two phones (needs Supabase credentials)
+- [ ] Play-test on two real phones (touch drag, Android vibration)
 
 # DONE
+- [x] "Arcilla" clay theme: Fredoka, clay colors/shadows, new describer layout with paso/¡sí! buttons, clay lobby/login/guesser/summary/sheet; glass, mesh and dark mode removed. Verified in browser with 2 players + build/lint/typecheck.
+- [x] Backend e2e (scratch script): sign-in both players, 505 words, slot claim, round start/guards, 10-card round, scoring, P2 realtime updates + inserts
+- [x] Browser e2e with 2 players (localhost / 127.0.0.1): presence, describer card, swipe right/left, guesser flash, summary on both, word sheet + drag dismiss, role swap
+- [x] Added `allowedDevOrigins` (127.0.0.1 + LAN) so other devices can load the dev server
 - Read PRD.md and implement application
   - [x] Scaffold Next.js (App Router, TS, Tailwind) + shadcn, framer-motion, supabase-js
   - [x] SQL migration: `como` schema, tables, grants, realtime publication, game_state row
