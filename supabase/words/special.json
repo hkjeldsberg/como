@@ -1,0 +1,677 @@
+[
+ {
+  "spanish_word": "El rey león",
+  "category": "movie",
+  "level": 1,
+  "english": "The Lion King",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Disney animated film about lion cub Simba (1994)."
+ },
+ {
+  "spanish_word": "Titanic",
+  "category": "movie",
+  "level": 1,
+  "english": "Titanic",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "1997 romance by James Cameron aboard the doomed ocean liner."
+ },
+ {
+  "spanish_word": "Harry Potter y el prisionero de Azkaban",
+  "category": "movie",
+  "level": 1,
+  "english": "Harry Potter and the Prisoner of Azkaban",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Third film of the young wizard saga (2004)."
+ },
+ {
+  "spanish_word": "Toy Story",
+  "category": "movie",
+  "level": 1,
+  "english": "Toy Story",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Pixar's first feature, about toys that come alive (1995)."
+ },
+ {
+  "spanish_word": "Frozen: el reino del hielo",
+  "category": "movie",
+  "level": 1,
+  "english": "Frozen",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Disney film with sisters Elsa and Anna and the song 'Let It Go'."
+ },
+ {
+  "spanish_word": "Los Vengadores",
+  "category": "movie",
+  "level": 1,
+  "english": "The Avengers",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Marvel superheroes team up against Loki (2012)."
+ },
+ {
+  "spanish_word": "Buscando a Nemo",
+  "category": "movie",
+  "level": 1,
+  "english": "Finding Nemo",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Pixar film: a clownfish father searches the ocean for his son."
+ },
+ {
+  "spanish_word": "Parque Jurásico",
+  "category": "movie",
+  "level": 1,
+  "english": "Jurassic Park",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Spielberg's 1993 film about cloned dinosaurs on an island."
+ },
+ {
+  "spanish_word": "Shrek",
+  "category": "movie",
+  "level": 1,
+  "english": "Shrek",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Animated film about a grumpy green ogre and a talking donkey."
+ },
+ {
+  "spanish_word": "El padrino",
+  "category": "movie",
+  "level": 2,
+  "english": "The Godfather",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Coppola's 1972 mafia saga about the Corleone family."
+ },
+ {
+  "spanish_word": "Regreso al futuro",
+  "category": "movie",
+  "level": 2,
+  "english": "Back to the Future",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Teen travels to the past in a DeLorean time machine (1985)."
+ },
+ {
+  "spanish_word": "Matrix",
+  "category": "movie",
+  "level": 2,
+  "english": "The Matrix",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "1999 sci-fi film: hacker Neo discovers reality is a simulation."
+ },
+ {
+  "spanish_word": "El silencio de los corderos",
+  "category": "movie",
+  "level": 2,
+  "english": "The Silence of the Lambs",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Thriller where an FBI trainee consults Hannibal Lecter."
+ },
+ {
+  "spanish_word": "Pretty Woman",
+  "category": "movie",
+  "level": 2,
+  "english": "Pretty Woman",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "1990 romantic comedy with Julia Roberts and Richard Gere."
+ },
+ {
+  "spanish_word": "Forrest Gump",
+  "category": "movie",
+  "level": 2,
+  "english": "Forrest Gump",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Kind-hearted man witnesses decades of US history (1994)."
+ },
+ {
+  "spanish_word": "La vida es bella",
+  "category": "movie",
+  "level": 2,
+  "english": "La vita è bella",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Italian film: a father shields his son from a concentration camp."
+ },
+ {
+  "spanish_word": "Piratas del Caribe: la maldición de la Perla Negra",
+  "category": "movie",
+  "level": 2,
+  "english": "Pirates of the Caribbean: The Curse of the Black Pearl",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Captain Jack Sparrow hunts for a cursed ship (2003)."
+ },
+ {
+  "spanish_word": "El laberinto del fauno",
+  "category": "movie",
+  "level": 3,
+  "english": "El laberinto del fauno",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Guillermo del Toro's dark fairy tale set in 1944 Spain."
+ },
+ {
+  "spanish_word": "Los otros",
+  "category": "movie",
+  "level": 3,
+  "english": "The Others",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "2001 ghost thriller with Nicole Kidman, directed by Amenábar."
+ },
+ {
+  "spanish_word": "Amélie",
+  "category": "movie",
+  "level": 3,
+  "english": "Le Fabuleux Destin d'Amélie Poulain",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "French whimsical romance about a shy Parisian waitress."
+ },
+ {
+  "spanish_word": "Cinema Paradiso",
+  "category": "movie",
+  "level": 3,
+  "english": "Nuovo Cinema Paradiso",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Italian film about a boy and a village cinema projectionist."
+ },
+ {
+  "spanish_word": "Cuenta conmigo",
+  "category": "movie",
+  "level": 3,
+  "english": "Stand by Me",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Four boys walk to find a dead body in the 1950s."
+ },
+ {
+  "spanish_word": "Ocho apellidos vascos",
+  "category": "movie",
+  "level": 3,
+  "english": "Ocho apellidos vascos",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Spanish comedy: an Andalusian pretends to be Basque for love."
+ },
+ {
+  "spanish_word": "Amores perros",
+  "category": "movie",
+  "level": 3,
+  "english": "Amores perros",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Iñárritu's Mexican film of three stories linked by a car crash."
+ },
+ {
+  "spanish_word": "El secreto de sus ojos",
+  "category": "movie",
+  "level": 3,
+  "english": "El secreto de sus ojos",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Argentine thriller, Oscar winner, about an unsolved murder."
+ },
+ {
+  "spanish_word": "Don Quijote de la Mancha",
+  "category": "book",
+  "level": 1,
+  "english": "Don Quixote",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Cervantes' novel about a knight who fights windmills."
+ },
+ {
+  "spanish_word": "Cien años de soledad",
+  "category": "book",
+  "level": 1,
+  "english": "Cien años de soledad",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "García Márquez's magical realism saga of the Buendía family."
+ },
+ {
+  "spanish_word": "El principito",
+  "category": "book",
+  "level": 1,
+  "english": "Le Petit Prince",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Novella about a little prince who travels between planets."
+ },
+ {
+  "spanish_word": "Harry Potter y la piedra filosofal",
+  "category": "book",
+  "level": 1,
+  "english": "Harry Potter and the Philosopher's Stone",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "J.K. Rowling's first novel about a boy wizard."
+ },
+ {
+  "spanish_word": "El código Da Vinci",
+  "category": "book",
+  "level": 1,
+  "english": "The Da Vinci Code",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Dan Brown thriller about a secret in Leonardo's paintings."
+ },
+ {
+  "spanish_word": "Romeo y Julieta",
+  "category": "book",
+  "level": 1,
+  "english": "Romeo and Juliet",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Shakespeare's tragedy of two young lovers from feuding families."
+ },
+ {
+  "spanish_word": "Caperucita Roja",
+  "category": "book",
+  "level": 1,
+  "english": "Little Red Riding Hood",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Fairy tale about a girl, her grandmother and a wolf."
+ },
+ {
+  "spanish_word": "1984",
+  "category": "book",
+  "level": 2,
+  "english": "1984",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Orwell's dystopia with Big Brother watching everyone."
+ },
+ {
+  "spanish_word": "El Hobbit",
+  "category": "book",
+  "level": 2,
+  "english": "The Hobbit",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Tolkien's novel: Bilbo Baggins joins dwarves to face a dragon."
+ },
+ {
+  "spanish_word": "La casa de los espíritus",
+  "category": "book",
+  "level": 2,
+  "english": "La casa de los espíritus",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Isabel Allende's family saga with magic and politics in Chile."
+ },
+ {
+  "spanish_word": "Los juegos del hambre",
+  "category": "book",
+  "level": 2,
+  "english": "The Hunger Games",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Teens fight to the death on TV in a dystopian future."
+ },
+ {
+  "spanish_word": "Crimen y castigo",
+  "category": "book",
+  "level": 2,
+  "english": "Crime and Punishment",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Dostoevsky's novel about a student who murders a pawnbroker."
+ },
+ {
+  "spanish_word": "Orgullo y prejuicio",
+  "category": "book",
+  "level": 2,
+  "english": "Pride and Prejudice",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Jane Austen's romance between Elizabeth Bennet and Mr. Darcy."
+ },
+ {
+  "spanish_word": "Rayuela",
+  "category": "book",
+  "level": 3,
+  "english": "Rayuela",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Julio Cortázar's experimental novel that can be read in any order."
+ },
+ {
+  "spanish_word": "La sombra del viento",
+  "category": "book",
+  "level": 3,
+  "english": "La sombra del viento",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Zafón's mystery set in Barcelona's Cemetery of Forgotten Books."
+ },
+ {
+  "spanish_word": "Pedro Páramo",
+  "category": "book",
+  "level": 3,
+  "english": "Pedro Páramo",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Juan Rulfo's short novel set in a village of ghosts."
+ },
+ {
+  "spanish_word": "Ficciones",
+  "category": "book",
+  "level": 3,
+  "english": "Ficciones",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Borges' collection of short stories about labyrinths and libraries."
+ },
+ {
+  "spanish_word": "Fahrenheit 451",
+  "category": "book",
+  "level": 3,
+  "english": "Fahrenheit 451",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Bradbury's dystopia where firemen burn books."
+ },
+ {
+  "spanish_word": "El viejo y el mar",
+  "category": "book",
+  "level": 3,
+  "english": "The Old Man and the Sea",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Hemingway's novella of an old fisherman and a giant marlin."
+ },
+ {
+  "spanish_word": "Crónica de una muerte anunciada",
+  "category": "book",
+  "level": 3,
+  "english": "Crónica de una muerte anunciada",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "García Márquez's novella about a murder everyone knew would happen."
+ },
+ {
+  "spanish_word": "Lionel Messi",
+  "category": "person",
+  "level": 1,
+  "english": "Lionel Messi",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Argentine footballer, World Cup winner in 2022."
+ },
+ {
+  "spanish_word": "Cristiano Ronaldo",
+  "category": "person",
+  "level": 1,
+  "english": "Cristiano Ronaldo",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Portuguese footballer, five-time Ballon d'Or winner."
+ },
+ {
+  "spanish_word": "Shakira",
+  "category": "person",
+  "level": 1,
+  "english": "Shakira",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Colombian pop singer known for 'Hips Don't Lie'."
+ },
+ {
+  "spanish_word": "Albert Einstein",
+  "category": "person",
+  "level": 1,
+  "english": "Albert Einstein",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Physicist who developed the theory of relativity."
+ },
+ {
+  "spanish_word": "Michael Jackson",
+  "category": "person",
+  "level": 1,
+  "english": "Michael Jackson",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "American 'King of Pop', singer of 'Thriller'."
+ },
+ {
+  "spanish_word": "Leonardo da Vinci",
+  "category": "person",
+  "level": 1,
+  "english": "Leonardo da Vinci",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Italian Renaissance painter of the Mona Lisa."
+ },
+ {
+  "spanish_word": "Barack Obama",
+  "category": "person",
+  "level": 1,
+  "english": "Barack Obama",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "44th US president, first Black president."
+ },
+ {
+  "spanish_word": "Napoleón Bonaparte",
+  "category": "person",
+  "level": 1,
+  "english": "Napoleón Bonaparte",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "French emperor and military leader, defeated at Waterloo."
+ },
+ {
+  "spanish_word": "Pablo Picasso",
+  "category": "person",
+  "level": 1,
+  "english": "Pablo Picasso",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Spanish painter, co-founder of Cubism, painted Guernica."
+ },
+ {
+  "spanish_word": "Rafael Nadal",
+  "category": "person",
+  "level": 1,
+  "english": "Rafael Nadal",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Spanish tennis champion, 'King of Clay'."
+ },
+ {
+  "spanish_word": "Diego Maradona",
+  "category": "person",
+  "level": 2,
+  "english": "Diego Maradona",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Argentine footballer of the 1986 World Cup 'Hand of God'."
+ },
+ {
+  "spanish_word": "Frida Kahlo",
+  "category": "person",
+  "level": 2,
+  "english": "Frida Kahlo",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Mexican painter famous for self-portraits and her unibrow."
+ },
+ {
+  "spanish_word": "Salvador Dalí",
+  "category": "person",
+  "level": 2,
+  "english": "Salvador Dalí",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Spanish surrealist painter with a curled moustache."
+ },
+ {
+  "spanish_word": "Penélope Cruz",
+  "category": "person",
+  "level": 2,
+  "english": "Penélope Cruz",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Spanish actress, Oscar winner for Vicky Cristina Barcelona."
+ },
+ {
+  "spanish_word": "Bad Bunny",
+  "category": "person",
+  "level": 2,
+  "english": "Bad Bunny",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Puerto Rican reggaeton and Latin trap star."
+ },
+ {
+  "spanish_word": "Isaac Newton",
+  "category": "person",
+  "level": 2,
+  "english": "Isaac Newton",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "English scientist who formulated gravity and laws of motion."
+ },
+ {
+  "spanish_word": "Cleopatra",
+  "category": "person",
+  "level": 2,
+  "english": "Cleopatra",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Last active queen of Ptolemaic Egypt."
+ },
+ {
+  "spanish_word": "Simón Bolívar",
+  "category": "person",
+  "level": 2,
+  "english": "Simón Bolívar",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Venezuelan liberator of much of South America."
+ },
+ {
+  "spanish_word": "Marie Curie",
+  "category": "person",
+  "level": 2,
+  "english": "Marie Curie",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Polish-French scientist, pioneer of radioactivity, two Nobel Prizes."
+ },
+ {
+  "spanish_word": "Antonio Banderas",
+  "category": "person",
+  "level": 2,
+  "english": "Antonio Banderas",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Spanish actor, voice of Puss in Boots."
+ },
+ {
+  "spanish_word": "Gabriel García Márquez",
+  "category": "person",
+  "level": 3,
+  "english": "Gabriel García Márquez",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Colombian Nobel-winning novelist of magical realism."
+ },
+ {
+  "spanish_word": "Che Guevara",
+  "category": "person",
+  "level": 3,
+  "english": "Che Guevara",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Argentine revolutionary, key figure of the Cuban Revolution."
+ },
+ {
+  "spanish_word": "Pelé",
+  "category": "person",
+  "level": 3,
+  "english": "Pelé",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Brazilian football legend, three-time World Cup winner."
+ },
+ {
+  "spanish_word": "Pedro Almodóvar",
+  "category": "person",
+  "level": 3,
+  "english": "Pedro Almodóvar",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Spanish film director of Women on the Verge of a Nervous Breakdown."
+ },
+ {
+  "spanish_word": "Celia Cruz",
+  "category": "person",
+  "level": 3,
+  "english": "Celia Cruz",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Cuban 'Queen of Salsa' famous for her shout 'Azúcar!'."
+ },
+ {
+  "spanish_word": "Isabel la Católica",
+  "category": "person",
+  "level": 3,
+  "english": "Isabel la Católica",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Queen of Castile who backed Columbus's voyage in 1492."
+ },
+ {
+  "spanish_word": "Neil Armstrong",
+  "category": "person",
+  "level": 3,
+  "english": "Neil Armstrong",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "First person to walk on the Moon in 1969."
+ },
+ {
+  "spanish_word": "Pablo Neruda",
+  "category": "person",
+  "level": 3,
+  "english": "Pablo Neruda",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Chilean poet, Nobel Prize in Literature 1971."
+ },
+ {
+  "spanish_word": "Carlos Gardel",
+  "category": "person",
+  "level": 3,
+  "english": "Carlos Gardel",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Tango singer, icon of Argentina and Uruguay."
+ },
+ {
+  "spanish_word": "Severo Ochoa",
+  "category": "person",
+  "level": 3,
+  "english": "Severo Ochoa",
+  "example_sentence": null,
+  "grammar_note": null,
+  "description": "Spanish biochemist, Nobel Prize in Medicine 1959."
+ }
+]

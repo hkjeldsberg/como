@@ -1,0 +1,1307 @@
+[
+  {
+    "spanish_word": "el perro",
+    "category": "animals",
+    "level": 1,
+    "english": "dog",
+    "example_sentence": "Mi perro duerme en el sofá.",
+    "grammar_note": "Masculine noun; plural: los perros.",
+    "description": null
+  },
+  {
+    "spanish_word": "el gato",
+    "category": "animals",
+    "level": 1,
+    "english": "cat",
+    "example_sentence": "El gato bebe leche.",
+    "grammar_note": "Masculine noun; plural: los gatos.",
+    "description": null
+  },
+  {
+    "spanish_word": "el caballo",
+    "category": "animals",
+    "level": 1,
+    "english": "horse",
+    "example_sentence": "El caballo corre por el campo.",
+    "grammar_note": "Masculine noun; plural: los caballos.",
+    "description": null
+  },
+  {
+    "spanish_word": "el pájaro",
+    "category": "animals",
+    "level": 1,
+    "english": "bird",
+    "example_sentence": "Un pájaro canta en el árbol.",
+    "grammar_note": "Masculine noun; plural: los pájaros. Accent on the first á.",
+    "description": null
+  },
+  {
+    "spanish_word": "el pez",
+    "category": "animals",
+    "level": 1,
+    "english": "fish (live)",
+    "example_sentence": "El pez nada en el agua.",
+    "grammar_note": "Masculine noun; plural: los peces (z becomes c). Cooked fish is el pescado.",
+    "description": null
+  },
+  {
+    "spanish_word": "la vaca",
+    "category": "animals",
+    "level": 1,
+    "english": "cow",
+    "example_sentence": "La vaca come hierba.",
+    "grammar_note": "Feminine noun; plural: las vacas.",
+    "description": null
+  },
+  {
+    "spanish_word": "el conejo",
+    "category": "animals",
+    "level": 1,
+    "english": "rabbit",
+    "example_sentence": "El conejo es blanco.",
+    "grammar_note": "Masculine noun; plural: los conejos.",
+    "description": null
+  },
+  {
+    "spanish_word": "el pan",
+    "category": "food",
+    "level": 1,
+    "english": "bread",
+    "example_sentence": "Quiero pan con mantequilla.",
+    "grammar_note": "Masculine noun; usually singular.",
+    "description": null
+  },
+  {
+    "spanish_word": "la leche",
+    "category": "food",
+    "level": 1,
+    "english": "milk",
+    "example_sentence": "Bebo leche por la mañana.",
+    "grammar_note": "Feminine noun; usually singular.",
+    "description": null
+  },
+  {
+    "spanish_word": "el queso",
+    "category": "food",
+    "level": 1,
+    "english": "cheese",
+    "example_sentence": "Me gusta el queso.",
+    "grammar_note": "Masculine noun; plural: los quesos.",
+    "description": null
+  },
+  {
+    "spanish_word": "la manzana",
+    "category": "food",
+    "level": 1,
+    "english": "apple",
+    "example_sentence": "Como una manzana roja.",
+    "grammar_note": "Feminine noun; plural: las manzanas.",
+    "description": null
+  },
+  {
+    "spanish_word": "el huevo",
+    "category": "food",
+    "level": 1,
+    "english": "egg",
+    "example_sentence": "Desayuno un huevo.",
+    "grammar_note": "Masculine noun; plural: los huevos.",
+    "description": null
+  },
+  {
+    "spanish_word": "el arroz",
+    "category": "food",
+    "level": 1,
+    "english": "rice",
+    "example_sentence": "Hoy comemos arroz con pollo.",
+    "grammar_note": "Masculine noun; usually singular.",
+    "description": null
+  },
+  {
+    "spanish_word": "el pollo",
+    "category": "food",
+    "level": 1,
+    "english": "chicken",
+    "example_sentence": "El pollo está muy rico.",
+    "grammar_note": "Masculine noun; plural: los pollos.",
+    "description": null
+  },
+  {
+    "spanish_word": "la sopa",
+    "category": "food",
+    "level": 1,
+    "english": "soup",
+    "example_sentence": "La sopa está caliente.",
+    "grammar_note": "Feminine noun; plural: las sopas.",
+    "description": null
+  },
+  {
+    "spanish_word": "el agua",
+    "category": "food",
+    "level": 1,
+    "english": "water",
+    "example_sentence": "Necesito un vaso de agua.",
+    "grammar_note": "Feminine but takes el in singular (el agua fría); plural: las aguas.",
+    "description": null
+  },
+  {
+    "spanish_word": "el café",
+    "category": "food",
+    "level": 1,
+    "english": "coffee",
+    "example_sentence": "Tomo un café con leche.",
+    "grammar_note": "Masculine noun; plural: los cafés. Accent on é.",
+    "description": null
+  },
+  {
+    "spanish_word": "la naranja",
+    "category": "food",
+    "level": 1,
+    "english": "orange",
+    "example_sentence": "La naranja es dulce.",
+    "grammar_note": "Feminine noun; plural: las naranjas.",
+    "description": null
+  },
+  {
+    "spanish_word": "el plátano",
+    "category": "food",
+    "level": 1,
+    "english": "banana",
+    "example_sentence": "El mono come un plátano.",
+    "grammar_note": "Masculine noun; plural: los plátanos.",
+    "description": null
+  },
+  {
+    "spanish_word": "la ensalada",
+    "category": "food",
+    "level": 1,
+    "english": "salad",
+    "example_sentence": "Comemos ensalada de tomate.",
+    "grammar_note": "Feminine noun; plural: las ensaladas.",
+    "description": null
+  },
+  {
+    "spanish_word": "la casa",
+    "category": "home",
+    "level": 1,
+    "english": "house",
+    "example_sentence": "Mi casa es pequeña.",
+    "grammar_note": "Feminine noun; plural: las casas.",
+    "description": null
+  },
+  {
+    "spanish_word": "la cama",
+    "category": "home",
+    "level": 1,
+    "english": "bed",
+    "example_sentence": "Duermo en una cama grande.",
+    "grammar_note": "Feminine noun; plural: las camas.",
+    "description": null
+  },
+  {
+    "spanish_word": "la mesa",
+    "category": "home",
+    "level": 1,
+    "english": "table",
+    "example_sentence": "La comida está en la mesa.",
+    "grammar_note": "Feminine noun; plural: las mesas.",
+    "description": null
+  },
+  {
+    "spanish_word": "la silla",
+    "category": "home",
+    "level": 1,
+    "english": "chair",
+    "example_sentence": "Siéntate en la silla.",
+    "grammar_note": "Feminine noun; plural: las sillas.",
+    "description": null
+  },
+  {
+    "spanish_word": "la puerta",
+    "category": "home",
+    "level": 1,
+    "english": "door",
+    "example_sentence": "Cierra la puerta, por favor.",
+    "grammar_note": "Feminine noun; plural: las puertas.",
+    "description": null
+  },
+  {
+    "spanish_word": "la ventana",
+    "category": "home",
+    "level": 1,
+    "english": "window",
+    "example_sentence": "Abro la ventana.",
+    "grammar_note": "Feminine noun; plural: las ventanas.",
+    "description": null
+  },
+  {
+    "spanish_word": "la cocina",
+    "category": "home",
+    "level": 1,
+    "english": "kitchen",
+    "example_sentence": "Mi madre está en la cocina.",
+    "grammar_note": "Feminine noun; also means cooking or stove.",
+    "description": null
+  },
+  {
+    "spanish_word": "el baño",
+    "category": "home",
+    "level": 1,
+    "english": "bathroom",
+    "example_sentence": "El baño está al fondo.",
+    "grammar_note": "Masculine noun; plural: los baños. Note the ñ.",
+    "description": null
+  },
+  {
+    "spanish_word": "el sofá",
+    "category": "home",
+    "level": 1,
+    "english": "sofa",
+    "example_sentence": "Veo la tele en el sofá.",
+    "grammar_note": "Masculine noun; plural: los sofás.",
+    "description": null
+  },
+  {
+    "spanish_word": "la llave",
+    "category": "home",
+    "level": 1,
+    "english": "key",
+    "example_sentence": "No encuentro la llave.",
+    "grammar_note": "Feminine noun; plural: las llaves.",
+    "description": null
+  },
+  {
+    "spanish_word": "la cabeza",
+    "category": "body",
+    "level": 1,
+    "english": "head",
+    "example_sentence": "Me duele la cabeza.",
+    "grammar_note": "Feminine noun; plural: las cabezas. Use doler with body parts.",
+    "description": null
+  },
+  {
+    "spanish_word": "la mano",
+    "category": "body",
+    "level": 1,
+    "english": "hand",
+    "example_sentence": "Lávate las manos.",
+    "grammar_note": "Feminine despite ending in -o; plural: las manos.",
+    "description": null
+  },
+  {
+    "spanish_word": "el ojo",
+    "category": "body",
+    "level": 1,
+    "english": "eye",
+    "example_sentence": "Tengo los ojos azules.",
+    "grammar_note": "Masculine noun; plural: los ojos.",
+    "description": null
+  },
+  {
+    "spanish_word": "la boca",
+    "category": "body",
+    "level": 1,
+    "english": "mouth",
+    "example_sentence": "Abre la boca.",
+    "grammar_note": "Feminine noun; plural: las bocas.",
+    "description": null
+  },
+  {
+    "spanish_word": "el pie",
+    "category": "body",
+    "level": 1,
+    "english": "foot",
+    "example_sentence": "Me duele el pie.",
+    "grammar_note": "Masculine noun; plural: los pies.",
+    "description": null
+  },
+  {
+    "spanish_word": "el brazo",
+    "category": "body",
+    "level": 1,
+    "english": "arm",
+    "example_sentence": "Levanto el brazo.",
+    "grammar_note": "Masculine noun; plural: los brazos.",
+    "description": null
+  },
+  {
+    "spanish_word": "la nariz",
+    "category": "body",
+    "level": 1,
+    "english": "nose",
+    "example_sentence": "Tengo la nariz roja.",
+    "grammar_note": "Feminine noun; plural: las narices (z becomes c).",
+    "description": null
+  },
+  {
+    "spanish_word": "el pelo",
+    "category": "body",
+    "level": 1,
+    "english": "hair",
+    "example_sentence": "Tiene el pelo largo.",
+    "grammar_note": "Masculine noun; usually singular in Spanish.",
+    "description": null
+  },
+  {
+    "spanish_word": "el sol",
+    "category": "nature",
+    "level": 1,
+    "english": "sun",
+    "example_sentence": "Hoy hace sol.",
+    "grammar_note": "Masculine noun; plural: los soles. Hace sol = it is sunny.",
+    "description": null
+  },
+  {
+    "spanish_word": "la luna",
+    "category": "nature",
+    "level": 1,
+    "english": "moon",
+    "example_sentence": "La luna brilla de noche.",
+    "grammar_note": "Feminine noun; plural: las lunas.",
+    "description": null
+  },
+  {
+    "spanish_word": "el árbol",
+    "category": "nature",
+    "level": 1,
+    "english": "tree",
+    "example_sentence": "El árbol es muy alto.",
+    "grammar_note": "Masculine noun; plural: los árboles (accent kept).",
+    "description": null
+  },
+  {
+    "spanish_word": "la flor",
+    "category": "nature",
+    "level": 1,
+    "english": "flower",
+    "example_sentence": "Esta flor huele bien.",
+    "grammar_note": "Feminine noun; plural: las flores.",
+    "description": null
+  },
+  {
+    "spanish_word": "la lluvia",
+    "category": "nature",
+    "level": 1,
+    "english": "rain",
+    "example_sentence": "La lluvia cae sobre la calle.",
+    "grammar_note": "Feminine noun; verb: llover (o to ue).",
+    "description": null
+  },
+  {
+    "spanish_word": "el mar",
+    "category": "nature",
+    "level": 1,
+    "english": "sea",
+    "example_sentence": "Vamos al mar en verano.",
+    "grammar_note": "Masculine noun (also la mar in poetry); plural: los mares.",
+    "description": null
+  },
+  {
+    "spanish_word": "la montaña",
+    "category": "nature",
+    "level": 1,
+    "english": "mountain",
+    "example_sentence": "La montaña tiene nieve.",
+    "grammar_note": "Feminine noun; plural: las montañas.",
+    "description": null
+  },
+  {
+    "spanish_word": "el río",
+    "category": "nature",
+    "level": 1,
+    "english": "river",
+    "example_sentence": "El río pasa por la ciudad.",
+    "grammar_note": "Masculine noun; plural: los ríos.",
+    "description": null
+  },
+  {
+    "spanish_word": "la camisa",
+    "category": "clothing",
+    "level": 1,
+    "english": "shirt",
+    "example_sentence": "Llevo una camisa blanca.",
+    "grammar_note": "Feminine noun; plural: las camisas.",
+    "description": null
+  },
+  {
+    "spanish_word": "los pantalones",
+    "category": "clothing",
+    "level": 1,
+    "english": "trousers",
+    "example_sentence": "Estos pantalones son nuevos.",
+    "grammar_note": "Masculine plural noun; singular el pantalón is also used.",
+    "description": null
+  },
+  {
+    "spanish_word": "el zapato",
+    "category": "clothing",
+    "level": 1,
+    "english": "shoe",
+    "example_sentence": "Tengo un zapato mojado.",
+    "grammar_note": "Masculine noun; plural: los zapatos.",
+    "description": null
+  },
+  {
+    "spanish_word": "el vestido",
+    "category": "clothing",
+    "level": 1,
+    "english": "dress",
+    "example_sentence": "Su vestido es rojo.",
+    "grammar_note": "Masculine noun; plural: los vestidos.",
+    "description": null
+  },
+  {
+    "spanish_word": "el sombrero",
+    "category": "clothing",
+    "level": 1,
+    "english": "hat",
+    "example_sentence": "El sombrero es grande.",
+    "grammar_note": "Masculine noun; plural: los sombreros.",
+    "description": null
+  },
+  {
+    "spanish_word": "el abrigo",
+    "category": "clothing",
+    "level": 1,
+    "english": "coat",
+    "example_sentence": "Hace frío, ponte el abrigo.",
+    "grammar_note": "Masculine noun; plural: los abrigos.",
+    "description": null
+  },
+  {
+    "spanish_word": "el coche",
+    "category": "travel",
+    "level": 1,
+    "english": "car",
+    "example_sentence": "Mi coche es azul.",
+    "grammar_note": "Masculine noun; plural: los coches. In Latin America: el carro.",
+    "description": null
+  },
+  {
+    "spanish_word": "el tren",
+    "category": "travel",
+    "level": 1,
+    "english": "train",
+    "example_sentence": "El tren sale a las ocho.",
+    "grammar_note": "Masculine noun; plural: los trenes.",
+    "description": null
+  },
+  {
+    "spanish_word": "el autobús",
+    "category": "travel",
+    "level": 1,
+    "english": "bus",
+    "example_sentence": "Voy en autobús al colegio.",
+    "grammar_note": "Masculine noun; plural: los autobuses (accent drops).",
+    "description": null
+  },
+  {
+    "spanish_word": "el avión",
+    "category": "travel",
+    "level": 1,
+    "english": "airplane",
+    "example_sentence": "El avión llega tarde.",
+    "grammar_note": "Masculine noun; plural: los aviones (accent drops).",
+    "description": null
+  },
+  {
+    "spanish_word": "el hotel",
+    "category": "travel",
+    "level": 1,
+    "english": "hotel",
+    "example_sentence": "El hotel está cerca de la playa.",
+    "grammar_note": "Masculine noun; plural: los hoteles.",
+    "description": null
+  },
+  {
+    "spanish_word": "la playa",
+    "category": "travel",
+    "level": 1,
+    "english": "beach",
+    "example_sentence": "Vamos a la playa en agosto.",
+    "grammar_note": "Feminine noun; plural: las playas.",
+    "description": null
+  },
+  {
+    "spanish_word": "la calle",
+    "category": "travel",
+    "level": 1,
+    "english": "street",
+    "example_sentence": "Vivo en esta calle.",
+    "grammar_note": "Feminine noun; plural: las calles.",
+    "description": null
+  },
+  {
+    "spanish_word": "la maleta",
+    "category": "travel",
+    "level": 1,
+    "english": "suitcase",
+    "example_sentence": "Preparo la maleta para el viaje.",
+    "grammar_note": "Feminine noun; plural: las maletas.",
+    "description": null
+  },
+  {
+    "spanish_word": "la escuela",
+    "category": "work",
+    "level": 1,
+    "english": "school",
+    "example_sentence": "Los niños van a la escuela.",
+    "grammar_note": "Feminine noun; plural: las escuelas. Also el colegio.",
+    "description": null
+  },
+  {
+    "spanish_word": "el profesor",
+    "category": "work",
+    "level": 1,
+    "english": "teacher",
+    "example_sentence": "El profesor explica la lección.",
+    "grammar_note": "Masculine noun; feminine: la profesora.",
+    "description": null
+  },
+  {
+    "spanish_word": "el médico",
+    "category": "work",
+    "level": 1,
+    "english": "doctor",
+    "example_sentence": "El médico trabaja en el hospital.",
+    "grammar_note": "Masculine noun; feminine: la médica.",
+    "description": null
+  },
+  {
+    "spanish_word": "la oficina",
+    "category": "work",
+    "level": 1,
+    "english": "office",
+    "example_sentence": "Trabajo en una oficina.",
+    "grammar_note": "Feminine noun; plural: las oficinas.",
+    "description": null
+  },
+  {
+    "spanish_word": "el dinero",
+    "category": "work",
+    "level": 1,
+    "english": "money",
+    "example_sentence": "No tengo dinero.",
+    "grammar_note": "Masculine noun; usually singular.",
+    "description": null
+  },
+  {
+    "spanish_word": "el trabajo",
+    "category": "work",
+    "level": 1,
+    "english": "work, job",
+    "example_sentence": "Mi trabajo es interesante.",
+    "grammar_note": "Masculine noun; plural: los trabajos.",
+    "description": null
+  },
+  {
+    "spanish_word": "el libro",
+    "category": "leisure",
+    "level": 1,
+    "english": "book",
+    "example_sentence": "Leo un libro cada semana.",
+    "grammar_note": "Masculine noun; plural: los libros.",
+    "description": null
+  },
+  {
+    "spanish_word": "la música",
+    "category": "leisure",
+    "level": 1,
+    "english": "music",
+    "example_sentence": "Me gusta la música.",
+    "grammar_note": "Feminine noun; accent on ú.",
+    "description": null
+  },
+  {
+    "spanish_word": "el fútbol",
+    "category": "leisure",
+    "level": 1,
+    "english": "football",
+    "example_sentence": "Juego al fútbol con mis amigos.",
+    "grammar_note": "Masculine noun; jugar al fútbol.",
+    "description": null
+  },
+  {
+    "spanish_word": "la película",
+    "category": "leisure",
+    "level": 1,
+    "english": "movie",
+    "example_sentence": "La película empieza a las nueve.",
+    "grammar_note": "Feminine noun; accent on the í; plural: las películas.",
+    "description": null
+  },
+  {
+    "spanish_word": "la fiesta",
+    "category": "leisure",
+    "level": 1,
+    "english": "party",
+    "example_sentence": "La fiesta es el sábado.",
+    "grammar_note": "Feminine noun; plural: las fiestas.",
+    "description": null
+  },
+  {
+    "spanish_word": "el juego",
+    "category": "leisure",
+    "level": 1,
+    "english": "game",
+    "example_sentence": "Este juego es divertido.",
+    "grammar_note": "Masculine noun; plural: los juegos.",
+    "description": null
+  },
+  {
+    "spanish_word": "la familia",
+    "category": "nouns",
+    "level": 1,
+    "english": "family",
+    "example_sentence": "Mi familia es grande.",
+    "grammar_note": "Feminine singular noun with plural verb possible in speech.",
+    "description": null
+  },
+  {
+    "spanish_word": "el amigo",
+    "category": "nouns",
+    "level": 1,
+    "english": "friend",
+    "example_sentence": "Mi amigo vive cerca.",
+    "grammar_note": "Masculine noun; feminine: la amiga; plural: los amigos.",
+    "description": null
+  },
+  {
+    "spanish_word": "la madre",
+    "category": "nouns",
+    "level": 1,
+    "english": "mother",
+    "example_sentence": "Mi madre cocina muy bien.",
+    "grammar_note": "Feminine noun; plural: las madres. Also mamá.",
+    "description": null
+  },
+  {
+    "spanish_word": "el padre",
+    "category": "nouns",
+    "level": 1,
+    "english": "father",
+    "example_sentence": "Mi padre trabaja mucho.",
+    "grammar_note": "Masculine noun; los padres can mean parents.",
+    "description": null
+  },
+  {
+    "spanish_word": "el hermano",
+    "category": "nouns",
+    "level": 1,
+    "english": "brother",
+    "example_sentence": "Tengo un hermano mayor.",
+    "grammar_note": "Masculine noun; feminine: la hermana; los hermanos can mean siblings.",
+    "description": null
+  },
+  {
+    "spanish_word": "el niño",
+    "category": "nouns",
+    "level": 1,
+    "english": "boy, child",
+    "example_sentence": "El niño juega en el parque.",
+    "grammar_note": "Masculine noun; feminine: la niña. Note the ñ.",
+    "description": null
+  },
+  {
+    "spanish_word": "la ciudad",
+    "category": "nouns",
+    "level": 1,
+    "english": "city",
+    "example_sentence": "Vivo en una ciudad grande.",
+    "grammar_note": "Feminine noun; plural: las ciudades.",
+    "description": null
+  },
+  {
+    "spanish_word": "el día",
+    "category": "nouns",
+    "level": 1,
+    "english": "day",
+    "example_sentence": "Hoy es un buen día.",
+    "grammar_note": "Masculine despite ending in -a; plural: los días.",
+    "description": null
+  },
+  {
+    "spanish_word": "la noche",
+    "category": "nouns",
+    "level": 1,
+    "english": "night",
+    "example_sentence": "Buenas noches.",
+    "grammar_note": "Feminine noun; plural: las noches.",
+    "description": null
+  },
+  {
+    "spanish_word": "el tiempo",
+    "category": "nouns",
+    "level": 1,
+    "english": "time, weather",
+    "example_sentence": "No tengo tiempo.",
+    "grammar_note": "Masculine noun; also weather: Hace buen tiempo.",
+    "description": null
+  },
+  {
+    "spanish_word": "el teléfono",
+    "category": "nouns",
+    "level": 1,
+    "english": "phone",
+    "example_sentence": "Mi teléfono está en la mesa.",
+    "grammar_note": "Masculine noun; plural: los teléfonos. Also el móvil in Spain.",
+    "description": null
+  },
+  {
+    "spanish_word": "la tienda",
+    "category": "nouns",
+    "level": 1,
+    "english": "shop",
+    "example_sentence": "Compro pan en la tienda.",
+    "grammar_note": "Feminine noun; plural: las tiendas.",
+    "description": null
+  },
+  {
+    "spanish_word": "el parque",
+    "category": "nouns",
+    "level": 1,
+    "english": "park",
+    "example_sentence": "Paseamos por el parque.",
+    "grammar_note": "Masculine noun; plural: los parques.",
+    "description": null
+  },
+  {
+    "spanish_word": "la gente",
+    "category": "nouns",
+    "level": 1,
+    "english": "people",
+    "example_sentence": "Hay mucha gente en la plaza.",
+    "grammar_note": "Feminine singular noun; takes singular verb.",
+    "description": null
+  },
+  {
+    "spanish_word": "ser",
+    "category": "verbs",
+    "level": 1,
+    "english": "to be (identity)",
+    "example_sentence": "Yo soy español.",
+    "grammar_note": "Irregular: soy, eres, es, somos, sois, son. Used for identity, origin, profession.",
+    "description": null
+  },
+  {
+    "spanish_word": "estar",
+    "category": "verbs",
+    "level": 1,
+    "english": "to be (state, location)",
+    "example_sentence": "Estoy en casa.",
+    "grammar_note": "Irregular: estoy, estás, está, estamos, estáis, están. Used for location and states.",
+    "description": null
+  },
+  {
+    "spanish_word": "tener",
+    "category": "verbs",
+    "level": 1,
+    "english": "to have",
+    "example_sentence": "Tengo dos hermanos.",
+    "grammar_note": "Irregular: tengo, tienes, tiene... Stem change e to ie.",
+    "description": null
+  },
+  {
+    "spanish_word": "hacer",
+    "category": "verbs",
+    "level": 1,
+    "english": "to do, to make",
+    "example_sentence": "Hago la tarea por la tarde.",
+    "grammar_note": "Irregular yo form: hago; hace, haces...",
+    "description": null
+  },
+  {
+    "spanish_word": "ir",
+    "category": "verbs",
+    "level": 1,
+    "english": "to go",
+    "example_sentence": "Voy al cine hoy.",
+    "grammar_note": "Irregular: voy, vas, va, vamos, vais, van. Use ir a + place.",
+    "description": null
+  },
+  {
+    "spanish_word": "comer",
+    "category": "verbs",
+    "level": 1,
+    "english": "to eat",
+    "example_sentence": "Comemos a las dos.",
+    "grammar_note": "Regular -er verb: como, comes, come...",
+    "description": null
+  },
+  {
+    "spanish_word": "beber",
+    "category": "verbs",
+    "level": 1,
+    "english": "to drink",
+    "example_sentence": "Bebo agua todos los días.",
+    "grammar_note": "Regular -er verb: bebo, bebes, bebe...",
+    "description": null
+  },
+  {
+    "spanish_word": "dormir",
+    "category": "verbs",
+    "level": 1,
+    "english": "to sleep",
+    "example_sentence": "El bebé duerme mucho.",
+    "grammar_note": "Stem change o to ue: duermo, duermes, duerme.",
+    "description": null
+  },
+  {
+    "spanish_word": "hablar",
+    "category": "verbs",
+    "level": 1,
+    "english": "to speak",
+    "example_sentence": "Hablo español un poco.",
+    "grammar_note": "Regular -ar verb: hablo, hablas, habla...",
+    "description": null
+  },
+  {
+    "spanish_word": "vivir",
+    "category": "verbs",
+    "level": 1,
+    "english": "to live",
+    "example_sentence": "Vivo en Madrid.",
+    "grammar_note": "Regular -ir verb: vivo, vives, vive...",
+    "description": null
+  },
+  {
+    "spanish_word": "trabajar",
+    "category": "verbs",
+    "level": 1,
+    "english": "to work",
+    "example_sentence": "Mi padre trabaja en un banco.",
+    "grammar_note": "Regular -ar verb: trabajo, trabajas...",
+    "description": null
+  },
+  {
+    "spanish_word": "querer",
+    "category": "verbs",
+    "level": 1,
+    "english": "to want, to love",
+    "example_sentence": "Quiero un helado.",
+    "grammar_note": "Stem change e to ie: quiero, quieres, quiere.",
+    "description": null
+  },
+  {
+    "spanish_word": "poder",
+    "category": "verbs",
+    "level": 1,
+    "english": "to be able to",
+    "example_sentence": "¿Puedes ayudarme?",
+    "grammar_note": "Stem change o to ue: puedo, puedes, puede. Followed by an infinitive.",
+    "description": null
+  },
+  {
+    "spanish_word": "ver",
+    "category": "verbs",
+    "level": 1,
+    "english": "to see, to watch",
+    "example_sentence": "Vemos la tele por la noche.",
+    "grammar_note": "Irregular yo form: veo; ves, ve...",
+    "description": null
+  },
+  {
+    "spanish_word": "abrir",
+    "category": "verbs",
+    "level": 1,
+    "english": "to open",
+    "example_sentence": "Abre el libro, por favor.",
+    "grammar_note": "Regular -ir verb; past participle irregular: abierto.",
+    "description": null
+  },
+  {
+    "spanish_word": "cerrar",
+    "category": "verbs",
+    "level": 1,
+    "english": "to close",
+    "example_sentence": "Cierro la puerta con llave.",
+    "grammar_note": "Stem change e to ie: cierro, cierras, cierra.",
+    "description": null
+  },
+  {
+    "spanish_word": "comprar",
+    "category": "verbs",
+    "level": 1,
+    "english": "to buy",
+    "example_sentence": "Compro frutas en el mercado.",
+    "grammar_note": "Regular -ar verb: compro, compras...",
+    "description": null
+  },
+  {
+    "spanish_word": "leer",
+    "category": "verbs",
+    "level": 1,
+    "english": "to read",
+    "example_sentence": "Leo el periódico por la mañana.",
+    "grammar_note": "Regular -er verb with y in some forms: leyó (preterite).",
+    "description": null
+  },
+  {
+    "spanish_word": "escribir",
+    "category": "verbs",
+    "level": 1,
+    "english": "to write",
+    "example_sentence": "Escribo una carta a mi abuela.",
+    "grammar_note": "Regular -ir verb; past participle irregular: escrito.",
+    "description": null
+  },
+  {
+    "spanish_word": "correr",
+    "category": "verbs",
+    "level": 1,
+    "english": "to run",
+    "example_sentence": "Corro en el parque.",
+    "grammar_note": "Regular -er verb: corro, corres, corre...",
+    "description": null
+  },
+  {
+    "spanish_word": "jugar",
+    "category": "verbs",
+    "level": 1,
+    "english": "to play",
+    "example_sentence": "Los niños juegan en el jardín.",
+    "grammar_note": "Stem change u to ue: juego, juegas, juega. Jugar al fútbol.",
+    "description": null
+  },
+  {
+    "spanish_word": "cantar",
+    "category": "verbs",
+    "level": 1,
+    "english": "to sing",
+    "example_sentence": "Ella canta muy bien.",
+    "grammar_note": "Regular -ar verb: canto, cantas, canta...",
+    "description": null
+  },
+  {
+    "spanish_word": "bailar",
+    "category": "verbs",
+    "level": 1,
+    "english": "to dance",
+    "example_sentence": "Me gusta bailar con mis amigos.",
+    "grammar_note": "Regular -ar verb: bailo, bailas, baila...",
+    "description": null
+  },
+  {
+    "spanish_word": "llamar",
+    "category": "verbs",
+    "level": 1,
+    "english": "to call",
+    "example_sentence": "Te llamo luego.",
+    "grammar_note": "Regular -ar verb; me llamo = my name is.",
+    "description": null
+  },
+  {
+    "spanish_word": "dar",
+    "category": "verbs",
+    "level": 1,
+    "english": "to give",
+    "example_sentence": "Te doy un regalo.",
+    "grammar_note": "Irregular yo form: doy; das, da, damos, dais, dan.",
+    "description": null
+  },
+  {
+    "spanish_word": "abrazar",
+    "category": "verbs",
+    "level": 1,
+    "english": "to hug",
+    "example_sentence": "Abrazo a mi abuela.",
+    "grammar_note": "Regular -ar verb; z becomes c before e: abracé.",
+    "description": null
+  },
+  {
+    "spanish_word": "caminar",
+    "category": "verbs",
+    "level": 1,
+    "english": "to walk",
+    "example_sentence": "Caminamos hasta la plaza.",
+    "grammar_note": "Regular -ar verb: camino, caminas, camina...",
+    "description": null
+  },
+  {
+    "spanish_word": "cocinar",
+    "category": "verbs",
+    "level": 1,
+    "english": "to cook",
+    "example_sentence": "Mi padre cocina los domingos.",
+    "grammar_note": "Regular -ar verb: cocino, cocinas, cocina...",
+    "description": null
+  },
+  {
+    "spanish_word": "grande",
+    "category": "adjectives",
+    "level": 1,
+    "english": "big",
+    "example_sentence": "Tengo una casa grande.",
+    "grammar_note": "Same form for masculine and feminine; plural: grandes. Before a noun: gran.",
+    "description": null
+  },
+  {
+    "spanish_word": "pequeño",
+    "category": "adjectives",
+    "level": 1,
+    "english": "small",
+    "example_sentence": "El gato es pequeño.",
+    "grammar_note": "Feminine: pequeña; plural: pequeños.",
+    "description": null
+  },
+  {
+    "spanish_word": "bueno",
+    "category": "adjectives",
+    "level": 1,
+    "english": "good",
+    "example_sentence": "Es un libro muy bueno.",
+    "grammar_note": "Feminine: buena; shortens to buen before masculine nouns.",
+    "description": null
+  },
+  {
+    "spanish_word": "malo",
+    "category": "adjectives",
+    "level": 1,
+    "english": "bad",
+    "example_sentence": "El tiempo es malo hoy.",
+    "grammar_note": "Feminine: mala; shortens to mal before masculine nouns.",
+    "description": null
+  },
+  {
+    "spanish_word": "nuevo",
+    "category": "adjectives",
+    "level": 1,
+    "english": "new",
+    "example_sentence": "Tengo un coche nuevo.",
+    "grammar_note": "Feminine: nueva; plural: nuevos.",
+    "description": null
+  },
+  {
+    "spanish_word": "viejo",
+    "category": "adjectives",
+    "level": 1,
+    "english": "old",
+    "example_sentence": "Mi abuelo es viejo.",
+    "grammar_note": "Feminine: vieja; plural: viejos.",
+    "description": null
+  },
+  {
+    "spanish_word": "alto",
+    "category": "adjectives",
+    "level": 1,
+    "english": "tall, high",
+    "example_sentence": "Mi hermano es muy alto.",
+    "grammar_note": "Feminine: alta; used with ser for height.",
+    "description": null
+  },
+  {
+    "spanish_word": "bajo",
+    "category": "adjectives",
+    "level": 1,
+    "english": "short, low",
+    "example_sentence": "Mi amiga es baja.",
+    "grammar_note": "Feminine: baja; also a preposition meaning under.",
+    "description": null
+  },
+  {
+    "spanish_word": "caliente",
+    "category": "adjectives",
+    "level": 1,
+    "english": "hot",
+    "example_sentence": "El café está caliente.",
+    "grammar_note": "Same for both genders; usually with estar. Hot weather uses hace calor.",
+    "description": null
+  },
+  {
+    "spanish_word": "frío",
+    "category": "adjectives",
+    "level": 1,
+    "english": "cold",
+    "example_sentence": "El agua está fría.",
+    "grammar_note": "Feminine: fría; with estar for things, tener frío for people.",
+    "description": null
+  },
+  {
+    "spanish_word": "rápido",
+    "category": "adjectives",
+    "level": 1,
+    "english": "fast",
+    "example_sentence": "El tren es rápido.",
+    "grammar_note": "Feminine: rápida; accent on á.",
+    "description": null
+  },
+  {
+    "spanish_word": "lento",
+    "category": "adjectives",
+    "level": 1,
+    "english": "slow",
+    "example_sentence": "La tortuga es lenta.",
+    "grammar_note": "Feminine: lenta; plural: lentos.",
+    "description": null
+  },
+  {
+    "spanish_word": "bonito",
+    "category": "adjectives",
+    "level": 1,
+    "english": "pretty",
+    "example_sentence": "La playa es bonita.",
+    "grammar_note": "Feminine: bonita; plural: bonitos.",
+    "description": null
+  },
+  {
+    "spanish_word": "feo",
+    "category": "adjectives",
+    "level": 1,
+    "english": "ugly",
+    "example_sentence": "El edificio es feo.",
+    "grammar_note": "Feminine: fea; plural: feos.",
+    "description": null
+  },
+  {
+    "spanish_word": "largo",
+    "category": "adjectives",
+    "level": 1,
+    "english": "long",
+    "example_sentence": "Tiene el pelo largo.",
+    "grammar_note": "Feminine: larga; plural: largos.",
+    "description": null
+  },
+  {
+    "spanish_word": "corto",
+    "category": "adjectives",
+    "level": 1,
+    "english": "short (length)",
+    "example_sentence": "El vestido es corto.",
+    "grammar_note": "Feminine: corta; plural: cortos.",
+    "description": null
+  },
+  {
+    "spanish_word": "rojo",
+    "category": "adjectives",
+    "level": 1,
+    "english": "red",
+    "example_sentence": "Llevo una camisa roja.",
+    "grammar_note": "Feminine: roja; plural: rojos.",
+    "description": null
+  },
+  {
+    "spanish_word": "azul",
+    "category": "adjectives",
+    "level": 1,
+    "english": "blue",
+    "example_sentence": "El cielo es azul.",
+    "grammar_note": "Same for both genders; plural: azules.",
+    "description": null
+  },
+  {
+    "spanish_word": "blanco",
+    "category": "adjectives",
+    "level": 1,
+    "english": "white",
+    "example_sentence": "La nieve es blanca.",
+    "grammar_note": "Feminine: blanca; plural: blancos.",
+    "description": null
+  },
+  {
+    "spanish_word": "negro",
+    "category": "adjectives",
+    "level": 1,
+    "english": "black",
+    "example_sentence": "El gato es negro.",
+    "grammar_note": "Feminine: negra; plural: negros.",
+    "description": null
+  },
+  {
+    "spanish_word": "barato",
+    "category": "adjectives",
+    "level": 1,
+    "english": "cheap",
+    "example_sentence": "Este pan es barato.",
+    "grammar_note": "Feminine: barata; opposite: caro.",
+    "description": null
+  },
+  {
+    "spanish_word": "caro",
+    "category": "adjectives",
+    "level": 1,
+    "english": "expensive",
+    "example_sentence": "El hotel es muy caro.",
+    "grammar_note": "Feminine: cara; plural: caros.",
+    "description": null
+  },
+  {
+    "spanish_word": "contento",
+    "category": "emotions",
+    "level": 1,
+    "english": "happy",
+    "example_sentence": "Estoy contento hoy.",
+    "grammar_note": "Feminine: contenta; usually with estar.",
+    "description": null
+  },
+  {
+    "spanish_word": "triste",
+    "category": "emotions",
+    "level": 1,
+    "english": "sad",
+    "example_sentence": "Mi amiga está triste.",
+    "grammar_note": "Same for both genders; usually with estar.",
+    "description": null
+  },
+  {
+    "spanish_word": "cansado",
+    "category": "emotions",
+    "level": 1,
+    "english": "tired",
+    "example_sentence": "Estoy cansado después del trabajo.",
+    "grammar_note": "Feminine: cansada; with estar.",
+    "description": null
+  },
+  {
+    "spanish_word": "enfadado",
+    "category": "emotions",
+    "level": 1,
+    "english": "angry",
+    "example_sentence": "Mi padre está enfadado.",
+    "grammar_note": "Feminine: enfadada; with estar. Latin America: enojado.",
+    "description": null
+  },
+  {
+    "spanish_word": "el miedo",
+    "category": "emotions",
+    "level": 1,
+    "english": "fear",
+    "example_sentence": "Tengo miedo de los perros.",
+    "grammar_note": "Masculine noun; tener miedo = to be afraid.",
+    "description": null
+  },
+  {
+    "spanish_word": "la alegría",
+    "category": "emotions",
+    "level": 1,
+    "english": "joy",
+    "example_sentence": "Siento mucha alegría.",
+    "grammar_note": "Feminine noun; accent on í.",
+    "description": null
+  },
+  {
+    "spanish_word": "el hambre",
+    "category": "emotions",
+    "level": 1,
+    "english": "hunger",
+    "example_sentence": "Tengo mucha hambre.",
+    "grammar_note": "Feminine but takes el; tener hambre = to be hungry.",
+    "description": null
+  },
+  {
+    "spanish_word": "la sed",
+    "category": "emotions",
+    "level": 1,
+    "english": "thirst",
+    "example_sentence": "Tengo sed, ¿hay agua?",
+    "grammar_note": "Feminine noun; tener sed = to be thirsty.",
+    "description": null
+  },
+  {
+    "spanish_word": "el helado",
+    "category": "food",
+    "level": 1,
+    "english": "ice cream",
+    "example_sentence": "Quiero un helado de chocolate.",
+    "grammar_note": "Masculine noun; plural: los helados.",
+    "description": null
+  }
+]

@@ -1,0 +1,1307 @@
+[
+ {
+  "spanish_word": "el ayuntamiento",
+  "category": "society",
+  "level": 2,
+  "english": "town hall",
+  "example_sentence": "Mi boda es en el ayuntamiento del pueblo.",
+  "grammar_note": "Masculine noun; plural: los ayuntamientos.",
+  "description": null
+ },
+ {
+  "spanish_word": "la herramienta",
+  "category": "nouns",
+  "level": 2,
+  "english": "tool",
+  "example_sentence": "Necesito una herramienta para arreglar la bici.",
+  "grammar_note": "Feminine noun; plural: las herramientas.",
+  "description": null
+ },
+ {
+  "spanish_word": "el vecino",
+  "category": "society",
+  "level": 2,
+  "english": "neighbor",
+  "example_sentence": "Mi vecino toca la guitarra por las noches.",
+  "grammar_note": "Feminine: la vecina. Not 'vecino' = near in English.",
+  "description": null
+ },
+ {
+  "spanish_word": "el barrio",
+  "category": "society",
+  "level": 2,
+  "english": "neighborhood",
+  "example_sentence": "Vivo en un barrio muy tranquilo.",
+  "grammar_note": "Masculine noun; plural: los barrios.",
+  "description": null
+ },
+ {
+  "spanish_word": "la ciudadanía",
+  "category": "society",
+  "level": 2,
+  "english": "citizenship; citizens",
+  "example_sentence": "Pidió la ciudadanía española hace dos años.",
+  "grammar_note": "Feminine noun; also means the citizens as a group.",
+  "description": null
+ },
+ {
+  "spanish_word": "el alcalde",
+  "category": "society",
+  "level": 2,
+  "english": "mayor",
+  "example_sentence": "El alcalde inauguró el nuevo parque.",
+  "grammar_note": "Feminine: la alcaldesa.",
+  "description": null
+ },
+ {
+  "spanish_word": "la huelga",
+  "category": "work",
+  "level": 2,
+  "english": "strike",
+  "example_sentence": "Los trabajadores hicieron huelga ayer.",
+  "grammar_note": "Feminine noun; 'hacer huelga' = to go on strike.",
+  "description": null
+ },
+ {
+  "spanish_word": "el sueldo",
+  "category": "work",
+  "level": 2,
+  "english": "salary",
+  "example_sentence": "Mi sueldo sube cada año.",
+  "grammar_note": "Masculine noun; plural: los sueldos.",
+  "description": null
+ },
+ {
+  "spanish_word": "el jefe",
+  "category": "work",
+  "level": 2,
+  "english": "boss",
+  "example_sentence": "Mi jefe me dio un día libre.",
+  "grammar_note": "Feminine: la jefa.",
+  "description": null
+ },
+ {
+  "spanish_word": "la entrevista",
+  "category": "work",
+  "level": 2,
+  "english": "interview",
+  "example_sentence": "Mañana tengo una entrevista de trabajo.",
+  "grammar_note": "Feminine noun; plural: las entrevistas.",
+  "description": null
+ },
+ {
+  "spanish_word": "el currículum",
+  "category": "work",
+  "level": 2,
+  "english": "résumé, CV",
+  "example_sentence": "Envié mi currículum a tres empresas.",
+  "grammar_note": "Masculine; plural: los currículums or currículos.",
+  "description": null
+ },
+ {
+  "spanish_word": "la reunión",
+  "category": "work",
+  "level": 2,
+  "english": "meeting",
+  "example_sentence": "La reunión empieza a las diez.",
+  "grammar_note": "Feminine noun; plural: las reuniones.",
+  "description": null
+ },
+ {
+  "spanish_word": "el empleo",
+  "category": "work",
+  "level": 2,
+  "english": "job, employment",
+  "example_sentence": "Busca un empleo cerca de casa.",
+  "grammar_note": "Masculine noun; more general than 'trabajo'.",
+  "description": null
+ },
+ {
+  "spanish_word": "la empresa",
+  "category": "work",
+  "level": 2,
+  "english": "company",
+  "example_sentence": "Mi hermano trabaja en una empresa grande.",
+  "grammar_note": "Feminine noun; plural: las empresas.",
+  "description": null
+ },
+ {
+  "spanish_word": "el horario",
+  "category": "work",
+  "level": 2,
+  "english": "schedule",
+  "example_sentence": "El horario de la tienda es de nueve a seis.",
+  "grammar_note": "Masculine noun; plural: los horarios.",
+  "description": null
+ },
+ {
+  "spanish_word": "la oficina",
+  "category": "work",
+  "level": 2,
+  "english": "office",
+  "example_sentence": "Llego a la oficina a las ocho.",
+  "grammar_note": "Feminine noun; plural: las oficinas.",
+  "description": null
+ },
+ {
+  "spanish_word": "el cartel",
+  "category": "nouns",
+  "level": 2,
+  "english": "poster",
+  "example_sentence": "Colgamos un cartel en la puerta.",
+  "grammar_note": "Masculine noun; plural: los carteles.",
+  "description": null
+ },
+ {
+  "spanish_word": "el buzón",
+  "category": "home",
+  "level": 2,
+  "english": "mailbox",
+  "example_sentence": "El cartero dejó una carta en el buzón.",
+  "grammar_note": "Masculine noun; plural: los buzones.",
+  "description": null
+ },
+ {
+  "spanish_word": "la escalera",
+  "category": "home",
+  "level": 2,
+  "english": "staircase, ladder",
+  "example_sentence": "Subí por la escalera porque el ascensor no funcionaba.",
+  "grammar_note": "Feminine noun; 'escaleras' often plural for stairs.",
+  "description": null
+ },
+ {
+  "spanish_word": "el ascensor",
+  "category": "home",
+  "level": 2,
+  "english": "elevator",
+  "example_sentence": "El ascensor está roto otra vez.",
+  "grammar_note": "Masculine noun; plural: los ascensores.",
+  "description": null
+ },
+ {
+  "spanish_word": "la cortina",
+  "category": "home",
+  "level": 2,
+  "english": "curtain",
+  "example_sentence": "Cierra la cortina, entra mucho sol.",
+  "grammar_note": "Feminine noun; plural: las cortinas.",
+  "description": null
+ },
+ {
+  "spanish_word": "la alfombra",
+  "category": "home",
+  "level": 2,
+  "english": "rug, carpet",
+  "example_sentence": "El gato duerme sobre la alfombra.",
+  "grammar_note": "Feminine noun; plural: las alfombras.",
+  "description": null
+ },
+ {
+  "spanish_word": "el grifo",
+  "category": "home",
+  "level": 2,
+  "english": "faucet",
+  "example_sentence": "Cierra bien el grifo, gotea.",
+  "grammar_note": "Masculine noun; plural: los grifos.",
+  "description": null
+ },
+ {
+  "spanish_word": "la lavadora",
+  "category": "home",
+  "level": 2,
+  "english": "washing machine",
+  "example_sentence": "La lavadora hace mucho ruido.",
+  "grammar_note": "Feminine noun; plural: las lavadoras.",
+  "description": null
+ },
+ {
+  "spanish_word": "el enchufe",
+  "category": "home",
+  "level": 2,
+  "english": "power outlet, plug",
+  "example_sentence": "No hay ningún enchufe cerca de la cama.",
+  "grammar_note": "Masculine noun; plural: los enchufes.",
+  "description": null
+ },
+ {
+  "spanish_word": "la bombilla",
+  "category": "home",
+  "level": 2,
+  "english": "light bulb",
+  "example_sentence": "Hay que cambiar la bombilla del pasillo.",
+  "grammar_note": "Feminine noun; plural: las bombillas.",
+  "description": null
+ },
+ {
+  "spanish_word": "el techo",
+  "category": "home",
+  "level": 2,
+  "english": "ceiling, roof",
+  "example_sentence": "Hay una mancha de humedad en el techo.",
+  "grammar_note": "Masculine noun; plural: los techos.",
+  "description": null
+ },
+ {
+  "spanish_word": "la nevera",
+  "category": "home",
+  "level": 2,
+  "english": "fridge",
+  "example_sentence": "Guarda la leche en la nevera.",
+  "grammar_note": "Feminine noun; also 'el frigorífico'.",
+  "description": null
+ },
+ {
+  "spanish_word": "la sartén",
+  "category": "home",
+  "level": 2,
+  "english": "frying pan",
+  "example_sentence": "Fríe los huevos en la sartén.",
+  "grammar_note": "Feminine noun (la sartén); plural: las sartenes.",
+  "description": null
+ },
+ {
+  "spanish_word": "el trozo",
+  "category": "food",
+  "level": 2,
+  "english": "piece, chunk",
+  "example_sentence": "¿Quieres un trozo de tarta?",
+  "grammar_note": "Masculine noun; plural: los trozos.",
+  "description": null
+ },
+ {
+  "spanish_word": "la receta",
+  "category": "food",
+  "level": 2,
+  "english": "recipe",
+  "example_sentence": "Mi abuela me dio su receta de tortilla.",
+  "grammar_note": "Feminine noun; also means medical prescription.",
+  "description": null
+ },
+ {
+  "spanish_word": "el postre",
+  "category": "food",
+  "level": 2,
+  "english": "dessert",
+  "example_sentence": "De postre tomaré flan.",
+  "grammar_note": "Masculine noun; plural: los postres.",
+  "description": null
+ },
+ {
+  "spanish_word": "la salsa",
+  "category": "food",
+  "level": 2,
+  "english": "sauce",
+  "example_sentence": "Esta salsa está muy picante.",
+  "grammar_note": "Feminine noun; plural: las salsas.",
+  "description": null
+ },
+ {
+  "spanish_word": "el aceite",
+  "category": "food",
+  "level": 2,
+  "english": "oil",
+  "example_sentence": "Fríe las patatas con aceite de oliva.",
+  "grammar_note": "Masculine noun; plural: los aceites.",
+  "description": null
+ },
+ {
+  "spanish_word": "la harina",
+  "category": "food",
+  "level": 2,
+  "english": "flour",
+  "example_sentence": "Necesito harina para hacer el pan.",
+  "grammar_note": "Feminine noun; usually singular.",
+  "description": null
+ },
+ {
+  "spanish_word": "el ajo",
+  "category": "food",
+  "level": 2,
+  "english": "garlic",
+  "example_sentence": "Añade dos dientes de ajo a la sopa.",
+  "grammar_note": "Masculine noun; plural: los ajos.",
+  "description": null
+ },
+ {
+  "spanish_word": "la nata",
+  "category": "food",
+  "level": 2,
+  "english": "cream",
+  "example_sentence": "Me gusta el café con nata.",
+  "grammar_note": "Feminine noun; false friend of 'nut'.",
+  "description": null
+ },
+ {
+  "spanish_word": "el bocadillo",
+  "category": "food",
+  "level": 2,
+  "english": "sandwich (baguette)",
+  "example_sentence": "Me comí un bocadillo de jamón.",
+  "grammar_note": "Masculine noun; plural: los bocadillos.",
+  "description": null
+ },
+ {
+  "spanish_word": "la merienda",
+  "category": "food",
+  "level": 2,
+  "english": "afternoon snack",
+  "example_sentence": "La merienda es a las cinco.",
+  "grammar_note": "Feminine noun; verb: merendar.",
+  "description": null
+ },
+ {
+  "spanish_word": "el equipaje",
+  "category": "travel",
+  "level": 2,
+  "english": "luggage",
+  "example_sentence": "Perdieron mi equipaje en el vuelo.",
+  "grammar_note": "Masculine noun; uncountable in use.",
+  "description": null
+ },
+ {
+  "spanish_word": "la aduana",
+  "category": "travel",
+  "level": 2,
+  "english": "customs",
+  "example_sentence": "En la aduana revisaron mi maleta.",
+  "grammar_note": "Feminine noun; plural: las aduanas.",
+  "description": null
+ },
+ {
+  "spanish_word": "el pasaporte",
+  "category": "travel",
+  "level": 2,
+  "english": "passport",
+  "example_sentence": "No olvides el pasaporte.",
+  "grammar_note": "Masculine noun; plural: los pasaportes.",
+  "description": null
+ },
+ {
+  "spanish_word": "la estación",
+  "category": "travel",
+  "level": 2,
+  "english": "station",
+  "example_sentence": "Nos vemos en la estación de tren.",
+  "grammar_note": "Feminine noun; also means season.",
+  "description": null
+ },
+ {
+  "spanish_word": "el andén",
+  "category": "travel",
+  "level": 2,
+  "english": "platform",
+  "example_sentence": "El tren sale del andén tres.",
+  "grammar_note": "Masculine noun; plural: los andenes.",
+  "description": null
+ },
+ {
+  "spanish_word": "el retraso",
+  "category": "travel",
+  "level": 2,
+  "english": "delay",
+  "example_sentence": "El avión salió con una hora de retraso.",
+  "grammar_note": "Masculine noun; plural: los retrasos.",
+  "description": null
+ },
+ {
+  "spanish_word": "el alojamiento",
+  "category": "travel",
+  "level": 2,
+  "english": "accommodation",
+  "example_sentence": "Reservamos el alojamiento por internet.",
+  "grammar_note": "Masculine noun; plural: los alojamientos.",
+  "description": null
+ },
+ {
+  "spanish_word": "la frontera",
+  "category": "travel",
+  "level": 2,
+  "english": "border",
+  "example_sentence": "Cruzamos la frontera en coche.",
+  "grammar_note": "Feminine noun; plural: las fronteras.",
+  "description": null
+ },
+ {
+  "spanish_word": "el crucero",
+  "category": "travel",
+  "level": 2,
+  "english": "cruise",
+  "example_sentence": "Hicieron un crucero por el Mediterráneo.",
+  "grammar_note": "Masculine noun; plural: los cruceros.",
+  "description": null
+ },
+ {
+  "spanish_word": "la gasolinera",
+  "category": "travel",
+  "level": 2,
+  "english": "gas station",
+  "example_sentence": "Paramos en la gasolinera para llenar el depósito.",
+  "grammar_note": "Feminine noun; plural: las gasolineras.",
+  "description": null
+ },
+ {
+  "spanish_word": "el atasco",
+  "category": "travel",
+  "level": 2,
+  "english": "traffic jam",
+  "example_sentence": "Llegué tarde por un atasco enorme.",
+  "grammar_note": "Masculine noun; plural: los atascos.",
+  "description": null
+ },
+ {
+  "spanish_word": "el semáforo",
+  "category": "travel",
+  "level": 2,
+  "english": "traffic light",
+  "example_sentence": "Para en el semáforo en rojo.",
+  "grammar_note": "Masculine noun; plural: los semáforos.",
+  "description": null
+ },
+ {
+  "spanish_word": "el mapa",
+  "category": "travel",
+  "level": 2,
+  "english": "map",
+  "example_sentence": "Mira el mapa para encontrar la calle.",
+  "grammar_note": "Masculine despite ending in -a; plural: los mapas.",
+  "description": null
+ },
+ {
+  "spanish_word": "la tienda de campaña",
+  "category": "travel",
+  "level": 2,
+  "english": "tent",
+  "example_sentence": "Montamos la tienda de campaña junto al río.",
+  "grammar_note": "Feminine; plural: las tiendas de campaña.",
+  "description": null
+ },
+ {
+  "spanish_word": "el muslo",
+  "category": "body",
+  "level": 2,
+  "english": "thigh",
+  "example_sentence": "Me duele el muslo después de correr.",
+  "grammar_note": "Masculine noun; plural: los muslos.",
+  "description": null
+ },
+ {
+  "spanish_word": "la muñeca",
+  "category": "body",
+  "level": 2,
+  "english": "wrist; doll",
+  "example_sentence": "Me torcí la muñeca jugando al tenis.",
+  "grammar_note": "Feminine noun; also means doll.",
+  "description": null
+ },
+ {
+  "spanish_word": "el tobillo",
+  "category": "body",
+  "level": 2,
+  "english": "ankle",
+  "example_sentence": "Se lesionó el tobillo en el partido.",
+  "grammar_note": "Masculine noun; plural: los tobillos.",
+  "description": null
+ },
+ {
+  "spanish_word": "el pulmón",
+  "category": "body",
+  "level": 2,
+  "english": "lung",
+  "example_sentence": "El tabaco daña los pulmones.",
+  "grammar_note": "Masculine noun; plural: los pulmones.",
+  "description": null
+ },
+ {
+  "spanish_word": "la espalda",
+  "category": "body",
+  "level": 2,
+  "english": "back",
+  "example_sentence": "Me duele la espalda por la silla.",
+  "grammar_note": "Feminine noun; plural: las espaldas.",
+  "description": null
+ },
+ {
+  "spanish_word": "el hombro",
+  "category": "body",
+  "level": 2,
+  "english": "shoulder",
+  "example_sentence": "Apoyó la cabeza en mi hombro.",
+  "grammar_note": "Masculine noun; plural: los hombros.",
+  "description": null
+ },
+ {
+  "spanish_word": "la ceja",
+  "category": "body",
+  "level": 2,
+  "english": "eyebrow",
+  "example_sentence": "Levantó una ceja con sorpresa.",
+  "grammar_note": "Feminine noun; plural: las cejas.",
+  "description": null
+ },
+ {
+  "spanish_word": "la mejilla",
+  "category": "body",
+  "level": 2,
+  "english": "cheek",
+  "example_sentence": "Me dio un beso en la mejilla.",
+  "grammar_note": "Feminine noun; plural: las mejillas.",
+  "description": null
+ },
+ {
+  "spanish_word": "la garganta",
+  "category": "body",
+  "level": 2,
+  "english": "throat",
+  "example_sentence": "Tengo dolor de garganta.",
+  "grammar_note": "Feminine noun; plural: las gargantas.",
+  "description": null
+ },
+ {
+  "spanish_word": "la bufanda",
+  "category": "clothing",
+  "level": 2,
+  "english": "scarf",
+  "example_sentence": "Ponte la bufanda, hace frío.",
+  "grammar_note": "Feminine noun; plural: las bufandas.",
+  "description": null
+ },
+ {
+  "spanish_word": "los guantes",
+  "category": "clothing",
+  "level": 2,
+  "english": "gloves",
+  "example_sentence": "Perdí un guante en el metro.",
+  "grammar_note": "Usually plural; singular: el guante.",
+  "description": null
+ },
+ {
+  "spanish_word": "el cinturón",
+  "category": "clothing",
+  "level": 2,
+  "english": "belt",
+  "example_sentence": "Este cinturón me queda grande.",
+  "grammar_note": "Masculine noun; plural: los cinturones.",
+  "description": null
+ },
+ {
+  "spanish_word": "el disfraz",
+  "category": "clothing",
+  "level": 2,
+  "english": "costume",
+  "example_sentence": "Mi disfraz de pirata es muy divertido.",
+  "grammar_note": "Masculine; plural: los disfraces (z becomes c).",
+  "description": null
+ },
+ {
+  "spanish_word": "la chaqueta",
+  "category": "clothing",
+  "level": 2,
+  "english": "jacket",
+  "example_sentence": "Llévate una chaqueta por si refresca.",
+  "grammar_note": "Feminine noun; plural: las chaquetas.",
+  "description": null
+ },
+ {
+  "spanish_word": "los calcetines",
+  "category": "clothing",
+  "level": 2,
+  "english": "socks",
+  "example_sentence": "Estos calcetines tienen un agujero.",
+  "grammar_note": "Usually plural; singular: el calcetín.",
+  "description": null
+ },
+ {
+  "spanish_word": "el paraguas",
+  "category": "clothing",
+  "level": 2,
+  "english": "umbrella",
+  "example_sentence": "Lleva el paraguas, va a llover.",
+  "grammar_note": "Masculine; same form in plural: los paraguas.",
+  "description": null
+ },
+ {
+  "spanish_word": "el pájaro",
+  "category": "animals",
+  "level": 2,
+  "english": "bird",
+  "example_sentence": "Un pájaro cantaba en el balcón.",
+  "grammar_note": "Masculine noun; plural: los pájaros.",
+  "description": null
+ },
+ {
+  "spanish_word": "la ardilla",
+  "category": "animals",
+  "level": 2,
+  "english": "squirrel",
+  "example_sentence": "Una ardilla subió al árbol.",
+  "grammar_note": "Feminine noun; plural: las ardillas.",
+  "description": null
+ },
+ {
+  "spanish_word": "el conejo",
+  "category": "animals",
+  "level": 2,
+  "english": "rabbit",
+  "example_sentence": "El conejo come zanahorias.",
+  "grammar_note": "Masculine noun; feminine: la coneja.",
+  "description": null
+ },
+ {
+  "spanish_word": "la tortuga",
+  "category": "animals",
+  "level": 2,
+  "english": "turtle",
+  "example_sentence": "La tortuga camina muy despacio.",
+  "grammar_note": "Feminine noun; plural: las tortugas.",
+  "description": null
+ },
+ {
+  "spanish_word": "la abeja",
+  "category": "animals",
+  "level": 2,
+  "english": "bee",
+  "example_sentence": "Una abeja me picó en el brazo.",
+  "grammar_note": "Feminine noun; plural: las abejas.",
+  "description": null
+ },
+ {
+  "spanish_word": "la hormiga",
+  "category": "animals",
+  "level": 2,
+  "english": "ant",
+  "example_sentence": "Hay hormigas en la cocina.",
+  "grammar_note": "Feminine noun; plural: las hormigas.",
+  "description": null
+ },
+ {
+  "spanish_word": "el lobo",
+  "category": "animals",
+  "level": 2,
+  "english": "wolf",
+  "example_sentence": "El lobo aulló toda la noche.",
+  "grammar_note": "Masculine noun; feminine: la loba.",
+  "description": null
+ },
+ {
+  "spanish_word": "el cerdo",
+  "category": "animals",
+  "level": 2,
+  "english": "pig",
+  "example_sentence": "El cerdo vive en la granja.",
+  "grammar_note": "Masculine noun; also 'el puerco'.",
+  "description": null
+ },
+ {
+  "spanish_word": "la mariposa",
+  "category": "animals",
+  "level": 2,
+  "english": "butterfly",
+  "example_sentence": "Una mariposa amarilla se posó en la flor.",
+  "grammar_note": "Feminine noun; plural: las mariposas.",
+  "description": null
+ },
+ {
+  "spanish_word": "el incendio",
+  "category": "nature",
+  "level": 2,
+  "english": "fire (large)",
+  "example_sentence": "El incendio destruyó el bosque.",
+  "grammar_note": "Masculine noun; 'fuego' is for flames in general.",
+  "description": null
+ },
+ {
+  "spanish_word": "la tormenta",
+  "category": "nature",
+  "level": 2,
+  "english": "storm",
+  "example_sentence": "Anoche hubo una tormenta muy fuerte.",
+  "grammar_note": "Feminine noun; plural: las tormentas.",
+  "description": null
+ },
+ {
+  "spanish_word": "la niebla",
+  "category": "nature",
+  "level": 2,
+  "english": "fog",
+  "example_sentence": "Hay mucha niebla en la carretera.",
+  "grammar_note": "Feminine noun; usually singular.",
+  "description": null
+ },
+ {
+  "spanish_word": "el acantilado",
+  "category": "nature",
+  "level": 2,
+  "english": "cliff",
+  "example_sentence": "Caminamos por el borde del acantilado.",
+  "grammar_note": "Masculine noun; plural: los acantilados.",
+  "description": null
+ },
+ {
+  "spanish_word": "la cueva",
+  "category": "nature",
+  "level": 2,
+  "english": "cave",
+  "example_sentence": "Los niños exploraron una cueva.",
+  "grammar_note": "Feminine noun; plural: las cuevas.",
+  "description": null
+ },
+ {
+  "spanish_word": "el valle",
+  "category": "nature",
+  "level": 2,
+  "english": "valley",
+  "example_sentence": "Vivimos en un valle verde.",
+  "grammar_note": "Masculine noun; plural: los valles.",
+  "description": null
+ },
+ {
+  "spanish_word": "la ola",
+  "category": "nature",
+  "level": 2,
+  "english": "wave",
+  "example_sentence": "Una ola grande tiró al surfista.",
+  "grammar_note": "Feminine; not the same as 'hola'.",
+  "description": null
+ },
+ {
+  "spanish_word": "el desierto",
+  "category": "nature",
+  "level": 2,
+  "english": "desert",
+  "example_sentence": "Cruzaron el desierto en camello.",
+  "grammar_note": "Masculine; false friend of 'dessert' (postre).",
+  "description": null
+ },
+ {
+  "spanish_word": "la hoja",
+  "category": "nature",
+  "level": 2,
+  "english": "leaf; sheet",
+  "example_sentence": "En otoño caen las hojas de los árboles.",
+  "grammar_note": "Feminine noun; also a sheet of paper.",
+  "description": null
+ },
+ {
+  "spanish_word": "el portátil",
+  "category": "technology",
+  "level": 2,
+  "english": "laptop",
+  "example_sentence": "Mi portátil se queda sin batería rápido.",
+  "grammar_note": "Masculine noun; plural: los portátiles.",
+  "description": null
+ },
+ {
+  "spanish_word": "la contraseña",
+  "category": "technology",
+  "level": 2,
+  "english": "password",
+  "example_sentence": "Olvidé la contraseña del correo.",
+  "grammar_note": "Feminine noun; plural: las contraseñas.",
+  "description": null
+ },
+ {
+  "spanish_word": "el enlace",
+  "category": "technology",
+  "level": 2,
+  "english": "link",
+  "example_sentence": "Te mando el enlace por mensaje.",
+  "grammar_note": "Masculine noun; plural: los enlaces.",
+  "description": null
+ },
+ {
+  "spanish_word": "la pantalla",
+  "category": "technology",
+  "level": 2,
+  "english": "screen",
+  "example_sentence": "La pantalla del móvil se rompió.",
+  "grammar_note": "Feminine noun; plural: las pantallas.",
+  "description": null
+ },
+ {
+  "spanish_word": "el cargador",
+  "category": "technology",
+  "level": 2,
+  "english": "charger",
+  "example_sentence": "¿Tienes un cargador para mi móvil?",
+  "grammar_note": "Masculine noun; plural: los cargadores.",
+  "description": null
+ },
+ {
+  "spanish_word": "la red",
+  "category": "technology",
+  "level": 2,
+  "english": "network; internet",
+  "example_sentence": "No hay red en esta zona.",
+  "grammar_note": "Feminine noun; plural: las redes.",
+  "description": null
+ },
+ {
+  "spanish_word": "el archivo",
+  "category": "technology",
+  "level": 2,
+  "english": "file",
+  "example_sentence": "Guardé el archivo en el escritorio.",
+  "grammar_note": "Masculine noun; also means archive.",
+  "description": null
+ },
+ {
+  "spanish_word": "descargar",
+  "category": "technology",
+  "level": 2,
+  "english": "to download",
+  "example_sentence": "Voy a descargar la aplicación.",
+  "grammar_note": "Regular -ar verb; also 'to unload'.",
+  "description": null
+ },
+ {
+  "spanish_word": "el partido",
+  "category": "leisure",
+  "level": 2,
+  "english": "match, game",
+  "example_sentence": "El partido empieza a las nueve.",
+  "grammar_note": "Masculine noun; also means political party.",
+  "description": null
+ },
+ {
+  "spanish_word": "el entrenador",
+  "category": "leisure",
+  "level": 2,
+  "english": "coach",
+  "example_sentence": "El entrenador cambió a dos jugadores.",
+  "grammar_note": "Feminine: la entrenadora.",
+  "description": null
+ },
+ {
+  "spanish_word": "la entrada",
+  "category": "leisure",
+  "level": 2,
+  "english": "ticket; entrance",
+  "example_sentence": "Compré dos entradas para el concierto.",
+  "grammar_note": "Feminine noun; plural: las entradas.",
+  "description": null
+ },
+ {
+  "spanish_word": "el escenario",
+  "category": "leisure",
+  "level": 2,
+  "english": "stage",
+  "example_sentence": "El cantante subió al escenario.",
+  "grammar_note": "Masculine noun; plural: los escenarios.",
+  "description": null
+ },
+ {
+  "spanish_word": "el aficionado",
+  "category": "leisure",
+  "level": 2,
+  "english": "fan, enthusiast",
+  "example_sentence": "Es un aficionado a la fotografía.",
+  "grammar_note": "Feminine: la aficionada; takes 'a'.",
+  "description": null
+ },
+ {
+  "spanish_word": "el juego de mesa",
+  "category": "leisure",
+  "level": 2,
+  "english": "board game",
+  "example_sentence": "Jugamos a un juego de mesa toda la tarde.",
+  "grammar_note": "Masculine; plural: los juegos de mesa.",
+  "description": null
+ },
+ {
+  "spanish_word": "la alegría",
+  "category": "emotions",
+  "level": 2,
+  "english": "joy",
+  "example_sentence": "Saltó de alegría al ver la noticia.",
+  "grammar_note": "Feminine noun; plural: las alegrías.",
+  "description": null
+ },
+ {
+  "spanish_word": "la vergüenza",
+  "category": "emotions",
+  "level": 2,
+  "english": "shame, embarrassment",
+  "example_sentence": "Sentí vergüenza al cantar delante de todos.",
+  "grammar_note": "Feminine; note the diaeresis ü.",
+  "description": null
+ },
+ {
+  "spanish_word": "el miedo",
+  "category": "emotions",
+  "level": 2,
+  "english": "fear",
+  "example_sentence": "Tiene miedo a las alturas.",
+  "grammar_note": "Masculine; 'tener miedo a/de'.",
+  "description": null
+ },
+ {
+  "spanish_word": "los celos",
+  "category": "emotions",
+  "level": 2,
+  "english": "jealousy",
+  "example_sentence": "Siente celos de su hermano.",
+  "grammar_note": "Plural noun; 'tener celos'.",
+  "description": null
+ },
+ {
+  "spanish_word": "la envidia",
+  "category": "emotions",
+  "level": 2,
+  "english": "envy",
+  "example_sentence": "Me da envidia tu viaje.",
+  "grammar_note": "Feminine; 'dar envidia'.",
+  "description": null
+ },
+ {
+  "spanish_word": "el cariño",
+  "category": "emotions",
+  "level": 2,
+  "english": "affection",
+  "example_sentence": "Le tiene mucho cariño a su abuela.",
+  "grammar_note": "Masculine; 'tener cariño a'.",
+  "description": null
+ },
+ {
+  "spanish_word": "el enfado",
+  "category": "emotions",
+  "level": 2,
+  "english": "anger, annoyance",
+  "example_sentence": "Su enfado duró todo el día.",
+  "grammar_note": "Masculine; related verb: enfadarse.",
+  "description": null
+ },
+ {
+  "spanish_word": "aprovechar",
+  "category": "verbs",
+  "level": 2,
+  "english": "to take advantage of",
+  "example_sentence": "Hay que aprovechar el buen tiempo.",
+  "grammar_note": "Regular -ar verb; direct object.",
+  "description": null
+ },
+ {
+  "spanish_word": "quejarse",
+  "category": "verbs",
+  "level": 2,
+  "english": "to complain",
+  "example_sentence": "Siempre se queja del ruido.",
+  "grammar_note": "Reflexive; takes 'de': quejarse de.",
+  "description": null
+ },
+ {
+  "spanish_word": "acordarse",
+  "category": "verbs",
+  "level": 2,
+  "english": "to remember",
+  "example_sentence": "No me acuerdo de su nombre.",
+  "grammar_note": "Stem-changing o>ue; takes 'de'.",
+  "description": null
+ },
+ {
+  "spanish_word": "olvidar",
+  "category": "verbs",
+  "level": 2,
+  "english": "to forget",
+  "example_sentence": "Olvidé las llaves en casa.",
+  "grammar_note": "Regular; 'olvidarse de' also common.",
+  "description": null
+ },
+ {
+  "spanish_word": "conseguir",
+  "category": "verbs",
+  "level": 2,
+  "english": "to manage to, to get",
+  "example_sentence": "Conseguí entradas para el concierto.",
+  "grammar_note": "Stem-changing e>i: consigo, consigues.",
+  "description": null
+ },
+ {
+  "spanish_word": "advertir",
+  "category": "verbs",
+  "level": 2,
+  "english": "to warn",
+  "example_sentence": "Me advirtió del peligro.",
+  "grammar_note": "Stem-changing e>ie: advierto.",
+  "description": null
+ },
+ {
+  "spanish_word": "rechazar",
+  "category": "verbs",
+  "level": 2,
+  "english": "to reject, to turn down",
+  "example_sentence": "Rechazó la oferta de trabajo.",
+  "grammar_note": "Spelling change z>c: rechace.",
+  "description": null
+ },
+ {
+  "spanish_word": "soler",
+  "category": "verbs",
+  "level": 2,
+  "english": "to usually do",
+  "example_sentence": "Suelo levantarme temprano.",
+  "grammar_note": "Stem-changing o>ue; followed by infinitive.",
+  "description": null
+ },
+ {
+  "spanish_word": "darse cuenta",
+  "category": "verbs",
+  "level": 2,
+  "english": "to realize",
+  "example_sentence": "Me di cuenta de mi error.",
+  "grammar_note": "Takes 'de'; false friend of 'realizar'.",
+  "description": null
+ },
+ {
+  "spanish_word": "fijarse",
+  "category": "verbs",
+  "level": 2,
+  "english": "to notice, to pay attention",
+  "example_sentence": "¿Te fijaste en su sombrero?",
+  "grammar_note": "Reflexive; takes 'en'.",
+  "description": null
+ },
+ {
+  "spanish_word": "ahorrar",
+  "category": "verbs",
+  "level": 2,
+  "english": "to save",
+  "example_sentence": "Quiero ahorrar para el viaje.",
+  "grammar_note": "Regular -ar verb; money or time.",
+  "description": null
+ },
+ {
+  "spanish_word": "gastar",
+  "category": "verbs",
+  "level": 2,
+  "english": "to spend; to waste",
+  "example_sentence": "Gastó todo su dinero en ropa.",
+  "grammar_note": "Regular -ar verb.",
+  "description": null
+ },
+ {
+  "spanish_word": "mudarse",
+  "category": "verbs",
+  "level": 2,
+  "english": "to move (house)",
+  "example_sentence": "Nos mudamos a Sevilla el año pasado.",
+  "grammar_note": "Reflexive; 'mudarse de casa'.",
+  "description": null
+ },
+ {
+  "spanish_word": "quedar",
+  "category": "verbs",
+  "level": 2,
+  "english": "to meet up; to be left",
+  "example_sentence": "Quedamos a las siete en la plaza.",
+  "grammar_note": "Regular; 'quedar con alguien'.",
+  "description": null
+ },
+ {
+  "spanish_word": "rendirse",
+  "category": "verbs",
+  "level": 2,
+  "english": "to give up",
+  "example_sentence": "No te rindas, casi lo logras.",
+  "grammar_note": "Stem-changing e>i: me rindo.",
+  "description": null
+ },
+ {
+  "spanish_word": "lograr",
+  "category": "verbs",
+  "level": 2,
+  "english": "to achieve",
+  "example_sentence": "Logró terminar la carrera.",
+  "grammar_note": "Regular -ar verb; followed by infinitive.",
+  "description": null
+ },
+ {
+  "spanish_word": "acostumbrarse",
+  "category": "verbs",
+  "level": 2,
+  "english": "to get used to",
+  "example_sentence": "Me acostumbré al frío del norte.",
+  "grammar_note": "Reflexive; takes 'a'.",
+  "description": null
+ },
+ {
+  "spanish_word": "atreverse",
+  "category": "verbs",
+  "level": 2,
+  "english": "to dare",
+  "example_sentence": "No me atrevo a saltar.",
+  "grammar_note": "Reflexive; takes 'a'.",
+  "description": null
+ },
+ {
+  "spanish_word": "disfrutar",
+  "category": "verbs",
+  "level": 2,
+  "english": "to enjoy",
+  "example_sentence": "Disfruto mucho caminando por el campo.",
+  "grammar_note": "Regular; 'disfrutar de' or direct.",
+  "description": null
+ },
+ {
+  "spanish_word": "pelearse",
+  "category": "verbs",
+  "level": 2,
+  "english": "to fight, to argue",
+  "example_sentence": "Mis hermanos se pelean por el mando.",
+  "grammar_note": "Reflexive; 'pelearse con'.",
+  "description": null
+ },
+ {
+  "spanish_word": "agotado",
+  "category": "adjectives",
+  "level": 2,
+  "english": "exhausted",
+  "example_sentence": "Llegué agotado después del viaje.",
+  "grammar_note": "Adjective; feminine: agotada.",
+  "description": null
+ },
+ {
+  "spanish_word": "cariñoso",
+  "category": "adjectives",
+  "level": 2,
+  "english": "affectionate",
+  "example_sentence": "Mi perro es muy cariñoso.",
+  "grammar_note": "Feminine: cariñosa.",
+  "description": null
+ },
+ {
+  "spanish_word": "testarudo",
+  "category": "adjectives",
+  "level": 2,
+  "english": "stubborn",
+  "example_sentence": "Mi padre es muy testarudo.",
+  "grammar_note": "Feminine: testaruda; synonym: terco.",
+  "description": null
+ },
+ {
+  "spanish_word": "tacaño",
+  "category": "adjectives",
+  "level": 2,
+  "english": "stingy",
+  "example_sentence": "No seas tacaño, invita tú.",
+  "grammar_note": "Feminine: tacaña.",
+  "description": null
+ },
+ {
+  "spanish_word": "orgulloso",
+  "category": "adjectives",
+  "level": 2,
+  "english": "proud",
+  "example_sentence": "Estoy orgulloso de mi hija.",
+  "grammar_note": "Takes 'de'; feminine: orgullosa.",
+  "description": null
+ },
+ {
+  "spanish_word": "torpe",
+  "category": "adjectives",
+  "level": 2,
+  "english": "clumsy",
+  "example_sentence": "Soy tan torpe que rompí el vaso.",
+  "grammar_note": "Same form masc. and fem.",
+  "description": null
+ },
+ {
+  "spanish_word": "amable",
+  "category": "adjectives",
+  "level": 2,
+  "english": "kind",
+  "example_sentence": "La vecina es muy amable.",
+  "grammar_note": "Same form masc. and fem.",
+  "description": null
+ },
+ {
+  "spanish_word": "ruidoso",
+  "category": "adjectives",
+  "level": 2,
+  "english": "noisy",
+  "example_sentence": "El bar de abajo es muy ruidoso.",
+  "grammar_note": "Feminine: ruidosa.",
+  "description": null
+ },
+ {
+  "spanish_word": "oscuro",
+  "category": "adjectives",
+  "level": 2,
+  "english": "dark",
+  "example_sentence": "El pasillo está muy oscuro.",
+  "grammar_note": "Feminine: oscura.",
+  "description": null
+ },
+ {
+  "spanish_word": "peligroso",
+  "category": "adjectives",
+  "level": 2,
+  "english": "dangerous",
+  "example_sentence": "Esa carretera es peligrosa de noche.",
+  "grammar_note": "Feminine: peligrosa.",
+  "description": null
+ },
+ {
+  "spanish_word": "estrecho",
+  "category": "adjectives",
+  "level": 2,
+  "english": "narrow, tight",
+  "example_sentence": "La calle es muy estrecha.",
+  "grammar_note": "Feminine: estrecha.",
+  "description": null
+ },
+ {
+  "spanish_word": "caro",
+  "category": "adjectives",
+  "level": 2,
+  "english": "expensive",
+  "example_sentence": "Este restaurante es demasiado caro.",
+  "grammar_note": "Feminine: cara.",
+  "description": null
+ },
+ {
+  "spanish_word": "raro",
+  "category": "adjectives",
+  "level": 2,
+  "english": "strange",
+  "example_sentence": "Es raro que no conteste.",
+  "grammar_note": "Feminine: rara.",
+  "description": null
+ },
+ {
+  "spanish_word": "pesado",
+  "category": "adjectives",
+  "level": 2,
+  "english": "heavy; annoying",
+  "example_sentence": "Esta maleta es muy pesada.",
+  "grammar_note": "With 'ser', can mean annoying.",
+  "description": null
+ },
+ {
+  "spanish_word": "la costumbre",
+  "category": "society",
+  "level": 2,
+  "english": "custom, habit",
+  "example_sentence": "Es una costumbre de mi familia.",
+  "grammar_note": "Feminine noun; false friend of 'costume'.",
+  "description": null
+ },
+ {
+  "spanish_word": "el paro",
+  "category": "society",
+  "level": 2,
+  "english": "unemployment",
+  "example_sentence": "El paro bajó este año.",
+  "grammar_note": "Masculine; 'estar en paro'.",
+  "description": null
+ },
+ {
+  "spanish_word": "la multa",
+  "category": "society",
+  "level": 2,
+  "english": "fine",
+  "example_sentence": "Me pusieron una multa por aparcar mal.",
+  "grammar_note": "Feminine; 'poner una multa'.",
+  "description": null
+ }
+]

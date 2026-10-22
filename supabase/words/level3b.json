@@ -1,0 +1,362 @@
+[
+  {
+    "spanish_word": "el rascacielos",
+    "category": "home",
+    "level": 3,
+    "english": "skyscraper",
+    "example_sentence": "En Nueva York hay rascacielos que casi tocan las nubes.",
+    "grammar_note": "Masculino; singular y plural iguales (los rascacielos).",
+    "description": null
+  },
+  {
+    "spanish_word": "la cosecha",
+    "category": "nature",
+    "level": 3,
+    "english": "harvest",
+    "example_sentence": "Este año la cosecha de uvas fue excelente.",
+    "grammar_note": "Femenino; cosechar es el verbo.",
+    "description": null
+  },
+  {
+    "spanish_word": "el naufragio",
+    "category": "travel",
+    "level": 3,
+    "english": "shipwreck",
+    "example_sentence": "El naufragio ocurrió durante una tormenta terrible.",
+    "grammar_note": "Masculino; relacionado con naufragar.",
+    "description": null
+  },
+  {
+    "spanish_word": "el andamio",
+    "category": "work",
+    "level": 3,
+    "english": "scaffolding",
+    "example_sentence": "Los obreros subieron al andamio para pintar la fachada.",
+    "grammar_note": "Masculino; acabado en -o.",
+    "description": null
+  },
+  {
+    "spanish_word": "la madrugada",
+    "category": "abstract",
+    "level": 3,
+    "english": "early morning hours",
+    "example_sentence": "Llegamos a casa de madrugada, muertos de sueño.",
+    "grammar_note": "Femenino; 'de madrugada' = en las primeras horas.",
+    "description": null
+  },
+  {
+    "spanish_word": "la cerilla",
+    "category": "home",
+    "level": 3,
+    "english": "match",
+    "example_sentence": "Necesito una cerilla para encender la vela.",
+    "grammar_note": "Femenino; sinónimo: el fósforo.",
+    "description": null
+  },
+  {
+    "spanish_word": "el enredo",
+    "category": "abstract",
+    "level": 3,
+    "english": "tangle, mess",
+    "example_sentence": "Con tantos malentendidos se armó un enredo enorme.",
+    "grammar_note": "Masculino; viene de enredar.",
+    "description": null
+  },
+  {
+    "spanish_word": "el chantaje",
+    "category": "society",
+    "level": 3,
+    "english": "blackmail",
+    "example_sentence": "Lo acusaron de hacer chantaje a su jefe.",
+    "grammar_note": "Masculino; se dice 'hacer chantaje'.",
+    "description": null
+  },
+  {
+    "spanish_word": "la trampa",
+    "category": "abstract",
+    "level": 3,
+    "english": "trap; cheat",
+    "example_sentence": "El ratón cayó en la trampa que pusimos.",
+    "grammar_note": "Femenino; 'hacer trampa' = to cheat.",
+    "description": null
+  },
+  {
+    "spanish_word": "el sobresalto",
+    "category": "emotions",
+    "level": 3,
+    "english": "start, fright",
+    "example_sentence": "Un ruido fuerte me causó un gran sobresalto.",
+    "grammar_note": "Masculino; 'dar un sobresalto'.",
+    "description": null
+  },
+  {
+    "spanish_word": "la bisagra",
+    "category": "home",
+    "level": 3,
+    "english": "hinge",
+    "example_sentence": "La puerta chirría porque la bisagra está oxidada.",
+    "grammar_note": "Femenino; termina en -a pero es de uso común.",
+    "description": null
+  },
+  {
+    "spanish_word": "el cerrajero",
+    "category": "work",
+    "level": 3,
+    "english": "locksmith",
+    "example_sentence": "Llamamos al cerrajero porque perdí las llaves.",
+    "grammar_note": "Masculino; femenino: la cerrajera.",
+    "description": null
+  },
+  {
+    "spanish_word": "el atardecer",
+    "category": "nature",
+    "level": 3,
+    "english": "sunset, dusk",
+    "example_sentence": "Nos encanta ver el atardecer desde la terraza.",
+    "grammar_note": "Masculino; también verbo: atardecer.",
+    "description": null
+  },
+  {
+    "spanish_word": "la telaraña",
+    "category": "animals",
+    "level": 3,
+    "english": "spider web",
+    "example_sentence": "Había una telaraña enorme en el rincón del sótano.",
+    "grammar_note": "Femenino; se escribe en una palabra.",
+    "description": null
+  },
+  {
+    "spanish_word": "el huracán",
+    "category": "nature",
+    "level": 3,
+    "english": "hurricane",
+    "example_sentence": "El huracán destruyó varias casas de la costa.",
+    "grammar_note": "Masculino; acento en la -á.",
+    "description": null
+  },
+  {
+    "spanish_word": "la muchedumbre",
+    "category": "society",
+    "level": 3,
+    "english": "crowd",
+    "example_sentence": "La muchedumbre esperaba al cantante en la plaza.",
+    "grammar_note": "Femenino singular; concuerda en singular.",
+    "description": null
+  },
+  {
+    "spanish_word": "el escaparate",
+    "category": "leisure",
+    "level": 3,
+    "english": "shop window",
+    "example_sentence": "Me quedé mirando un abrigo en el escaparate.",
+    "grammar_note": "Masculino; 'mirar escaparates'.",
+    "description": null
+  },
+  {
+    "spanish_word": "el cuchicheo",
+    "category": "society",
+    "level": 3,
+    "english": "whispering",
+    "example_sentence": "Se oía un cuchicheo constante al fondo de la clase.",
+    "grammar_note": "Masculino; verbo: cuchichear.",
+    "description": null
+  },
+  {
+    "spanish_word": "la cumbre",
+    "category": "nature",
+    "level": 3,
+    "english": "summit, peak",
+    "example_sentence": "Llegamos a la cumbre después de seis horas.",
+    "grammar_note": "Femenino; también 'cumbre' de líderes.",
+    "description": null
+  },
+  {
+    "spanish_word": "el espejismo",
+    "category": "nature",
+    "level": 3,
+    "english": "mirage",
+    "example_sentence": "En el desierto vieron un espejismo de agua.",
+    "grammar_note": "Masculino; termina en -ismo.",
+    "description": null
+  },
+  {
+    "spanish_word": "la rendija",
+    "category": "home",
+    "level": 3,
+    "english": "crack, slit",
+    "example_sentence": "La luz entraba por una rendija de la persiana.",
+    "grammar_note": "Femenino; palabra de uso cotidiano.",
+    "description": null
+  },
+  {
+    "spanish_word": "madrugar",
+    "category": "verbs",
+    "level": 3,
+    "english": "to get up early",
+    "example_sentence": "Mañana tengo que madrugar para coger el tren.",
+    "grammar_note": "Verbo regular en -ar; la u se mantiene (madrugué).",
+    "description": null
+  },
+  {
+    "spanish_word": "mimar",
+    "category": "verbs",
+    "level": 3,
+    "english": "to spoil, pamper",
+    "example_sentence": "Mi abuela siempre nos mima con dulces caseros.",
+    "grammar_note": "Regular en -ar; transitivo.",
+    "description": null
+  },
+  {
+    "spanish_word": "merodear",
+    "category": "verbs",
+    "level": 3,
+    "english": "to prowl, loiter",
+    "example_sentence": "Un hombre extraño merodeaba cerca de la casa.",
+    "grammar_note": "Regular en -ar; suele llevar 'por/cerca de'.",
+    "description": null
+  },
+  {
+    "spanish_word": "tropezar",
+    "category": "verbs",
+    "level": 3,
+    "english": "to trip, stumble",
+    "example_sentence": "Tropecé con un escalón y casi me caigo.",
+    "grammar_note": "Irregular e>ie (tropiezo); z>c (tropecé).",
+    "description": null
+  },
+  {
+    "spanish_word": "desvelar",
+    "category": "verbs",
+    "level": 3,
+    "english": "to reveal; keep awake",
+    "example_sentence": "El director no quiso desvelar el final de la película.",
+    "grammar_note": "Regular; reflexivo 'desvelarse' = no poder dormir.",
+    "description": null
+  },
+  {
+    "spanish_word": "presumir",
+    "category": "verbs",
+    "level": 3,
+    "english": "to show off, boast",
+    "example_sentence": "Le gusta presumir de su coche nuevo.",
+    "grammar_note": "Regular en -ir; se usa con 'de'.",
+    "description": null
+  },
+  {
+    "spanish_word": "aguantar",
+    "category": "verbs",
+    "level": 3,
+    "english": "to endure, put up with",
+    "example_sentence": "No aguanto más este ruido de las obras.",
+    "grammar_note": "Regular en -ar; transitivo.",
+    "description": null
+  },
+  {
+    "spanish_word": "regañar",
+    "category": "verbs",
+    "level": 3,
+    "english": "to scold",
+    "example_sentence": "Mi madre me regañó por llegar tarde.",
+    "grammar_note": "Regular en -ar; transitivo con persona.",
+    "description": null
+  },
+  {
+    "spanish_word": "apostar",
+    "category": "verbs",
+    "level": 3,
+    "english": "to bet",
+    "example_sentence": "Apuesto lo que quieras a que gana el equipo local.",
+    "grammar_note": "Irregular o>ue (apuesto, apuestas).",
+    "description": null
+  },
+  {
+    "spanish_word": "huir",
+    "category": "verbs",
+    "level": 3,
+    "english": "to flee",
+    "example_sentence": "Los ladrones huyeron antes de que llegara la policía.",
+    "grammar_note": "Irregular: huyo, huyes; pretérito huyó.",
+    "description": null
+  },
+  {
+    "spanish_word": "descarado",
+    "category": "adjectives",
+    "level": 3,
+    "english": "shameless, cheeky",
+    "example_sentence": "Qué descarado, se coló delante de todos.",
+    "grammar_note": "Masculino -o; femenino descarada.",
+    "description": null
+  },
+  {
+    "spanish_word": "ingenioso",
+    "category": "adjectives",
+    "level": 3,
+    "english": "ingenious, witty",
+    "example_sentence": "Inventó un sistema muy ingenioso para ahorrar agua.",
+    "grammar_note": "Adjetivo en -oso; femenino ingeniosa.",
+    "description": null
+  },
+  {
+    "spanish_word": "oxidado",
+    "category": "adjectives",
+    "level": 3,
+    "english": "rusty",
+    "example_sentence": "La verja del jardín está completamente oxidada.",
+    "grammar_note": "Participio de oxidar usado como adjetivo.",
+    "description": null
+  },
+  {
+    "spanish_word": "cutre",
+    "category": "adjectives",
+    "level": 3,
+    "english": "shabby, tacky",
+    "example_sentence": "Cenamos en un bar bastante cutre pero barato.",
+    "grammar_note": "Invariable en género: un/una cutre; coloquial.",
+    "description": null
+  },
+  {
+    "spanish_word": "agradecido",
+    "category": "adjectives",
+    "level": 3,
+    "english": "grateful",
+    "example_sentence": "Estoy muy agradecido por tu ayuda.",
+    "grammar_note": "Concuerda en género y número; con 'por' o 'con'.",
+    "description": null
+  },
+  {
+    "spanish_word": "desmesurado",
+    "category": "adjectives",
+    "level": 3,
+    "english": "excessive, huge",
+    "example_sentence": "Mostró un orgullo desmesurado tras el éxito.",
+    "grammar_note": "Adjetivo en -o; sinónimo: excesivo.",
+    "description": null
+  },
+  {
+    "spanish_word": "quisquilloso",
+    "category": "adjectives",
+    "level": 3,
+    "english": "fussy, picky",
+    "example_sentence": "Es tan quisquilloso con la comida que nunca prueba nada nuevo.",
+    "grammar_note": "Femenino quisquillosa; algo coloquial.",
+    "description": null
+  },
+  {
+    "spanish_word": "mugriento",
+    "category": "adjectives",
+    "level": 3,
+    "english": "filthy, grimy",
+    "example_sentence": "Tenía las manos mugrientas después de arreglar la moto.",
+    "grammar_note": "Femenino mugrienta; mugre = suciedad.",
+    "description": null
+  },
+  {
+    "spanish_word": "el escalofrío",
+    "category": "body",
+    "level": 3,
+    "english": "shiver, chill",
+    "example_sentence": "Esa canción me da escalofríos cada vez que la oigo.",
+    "grammar_note": "Masculino; se usa mucho en plural: dar escalofríos.",
+    "description": null
+  }
+]
